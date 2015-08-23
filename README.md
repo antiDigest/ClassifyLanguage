@@ -3,6 +3,7 @@ Language Classifier
 
 ## Data Collected on ICNALE-Written
 Country Code 	|Country 	|Writers/Essays 	|# of Tokens	|
+:--------------:|:---------:|:-----------------:|:-------------:|
   				|USA, UK,	|					|				|
 ENS*   			|CAN, AUS	|	200/ 400		|	88,792  	|
  	   			|NZ		 	|					|				|
