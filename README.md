@@ -20,5 +20,7 @@ ENS*   			|CAN, AUS	|	200/ 400		|	88,792  	|
 Total 			|	--- 	|	2,800/ 5,600 	|	1,282,086*	|
 
 *Inner Circle
+
 **Outer Circle
+
 ***Expanding Circle
