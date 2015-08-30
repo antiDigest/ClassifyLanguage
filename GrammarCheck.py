@@ -5,7 +5,7 @@ def GrammarCheck():
 	wdDoNotSaveChanges = 0
 	path = os.path.abspath('snippet.txt')
 
-	snippet = 'Jon Skeet lieks ponies.  I can haz reputashunz?  '
+	snippet = 'How correct you are ? when no body liek yous !'
 	snippet += 'This is a correct sentence.'
 	file = open(path, 'w')
 	file.write(snippet)
@@ -17,3 +17,7 @@ def GrammarCheck():
 	print "Spelling: %d" % (doc.SpellingErrors.Count,)
 
 	app.Quit(wdDoNotSaveChanges)
+
+
+if __name__ == '__main__':
+	GrammarCheck()
