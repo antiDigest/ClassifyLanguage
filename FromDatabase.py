@@ -1,32 +1,18 @@
-
+import os
+from GrammarCheck import GrammarCheck, SpellCheck
 
 def FromDatabase():
-	
-	for path, subdirs, files in os.walk(".", topdown=True):
-
-        subdirs[:] = [i for i in subdirs if i not in exclude]
-
-        if "ham" in path:
-
+    
+    for path, subdirs, files in os.walk(".", topdown=True):
+        if "Base" in path:
             for filen in files:
-                with open(path+'/'+filen,'r') as f:
-
-                    # Remove the subject from the body                  
-                    subject = re.split('Subject: ',f.readline())[1]
+                if 'TWN' in filen:
+                    print filen
+                    GrammarCheck('icnale_201302/Base/'+filen)
+                    SpellCheck('icnale_201302/Base/'+filen)
+                    break
                     
-                    body = f.read().decode('utf8', errors='ignore')
-                    #print body
-                    tokens = word_tokenize(body)
-                    #print tokens
-                    for word in tokens:
-                        #print word
-                        if word in filedist:
-                            filedist.setdefault(word,[])[0] += 1
-                        else:
-                            filedist.setdefault(word,[]).append(1)
-                            filedist.setdefault(word,[]).append(0)
-                            filedist.setdefault(word,[]).append(0)
-                        #print filedist
+
 
 if __name__ == '__main__':
-	FromDatabase()
+    FromDatabase()
