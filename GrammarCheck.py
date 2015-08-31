@@ -8,7 +8,7 @@ def GrammarCheck(filename):
 	app = win32com.client.gencache.EnsureDispatch('Word.Application')
 	doc = app.Documents.Open(path)
 	errors = doc.GrammaticalErrors.Count
-	print "Grammar: %d" % (errors,)
+	# print "Grammar: %d" % (errors,)
 
 	app.Quit(wdDoNotSaveChanges)
 
@@ -21,7 +21,7 @@ def SpellCheck(filename):
 	app = win32com.client.gencache.EnsureDispatch('Word.Application')
 	doc = app.Documents.Open(path)
 	errors = doc.SpellingErrors.Count
-	print "Spelling: %d" % (errors,)
+	# print "Spelling: %d" % (errors,)
 
 	app.Quit(wdDoNotSaveChanges)
 

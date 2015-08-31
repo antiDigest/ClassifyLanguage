@@ -1,5 +1,6 @@
 import os
 from GrammarCheck import GrammarCheck, SpellCheck
+from WordCount import WordCount
 
 def FromDatabase():
     
@@ -8,8 +9,9 @@ def FromDatabase():
             for filen in files:
                 if 'TWN' in filen:
                     print filen
-                    GrammarCheck('icnale_201302/Base/'+filen)
-                    SpellCheck('icnale_201302/Base/'+filen)
+                    print GrammarCheck('icnale_201302/Base/'+filen)
+                    print SpellCheck('icnale_201302/Base/'+filen)
+                    print WordCount('icnale_201302/Base/'+filen)
                     break
                     
 
