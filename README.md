@@ -22,3 +22,23 @@ Language Classifier
 **Outer Circle
 
 ***Expanding Circle
+
+###Done :
+
+1.	Sentence Length
+
+2.	Grammar Check
+
+3.	Spelling Check
+
+4.	Word Count
+
+5.	Function Words Count
+
+###TODO:
+
+1.	Brill Tag
+
+2.	POS - bigrams and trigrams
+
+3. Sentence Chunk Boundary detector ?
