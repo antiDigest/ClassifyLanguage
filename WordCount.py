@@ -1,3 +1,4 @@
+import re
 
 with open('EnglishAuxiliaryVerbs.txt','r') as f:
 	lines = f.read().split('\n')
@@ -25,6 +26,13 @@ with open('EnglishQuantifiers.txt','r') as f:
 
 allwords = auxverbs + conjunctions + determiners +prepositions+pronouns+quantifiers
 print allwords
+
+def SentenceLength(filename):
+	with open(filename,'r') as f:
+		fl = f.read()
+	words = len(fl.split(' '))
+	sen = len(re.split(r'[.!?]+', fl))
+	return (words/sen)
 
 def WordCount(filename):
 	with open(filename,'r') as f:
