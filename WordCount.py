@@ -25,7 +25,7 @@ with open('EnglishQuantifiers.txt','r') as f:
 	quantifiers = [line for line in lines if not "//" in line] 
 
 allwords = auxverbs + conjunctions + determiners +prepositions+pronouns+quantifiers
-print allwords
+# print allwords
 
 def SentenceLength(filename):
 	with open(filename,'r') as f:
