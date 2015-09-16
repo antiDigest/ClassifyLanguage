@@ -25,7 +25,7 @@ Language Classifier
 
 ###Done :
 
-1.	Sentence Length
+1.	Average Sentence Length
 
 2.	Grammar Check
 
@@ -41,4 +41,6 @@ Language Classifier
 
 2.	POS - bigrams and trigrams
 
-3. Sentence Chunk Boundary detector ?
+3. Sentence Chunk Boundary detector
+
+4. Get Aly the database
