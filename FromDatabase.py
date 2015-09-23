@@ -10,12 +10,12 @@ def FromDatabase():
             for filen in files:
                 if 'ENS' in filen:
                     print filen
-                    print GrammarCheck('icnale_201302/Base/'+filen)
-                    print SpellCheck('icnale_201302/Base/'+filen)
-                    print WordCount('icnale_201302/Base/'+filen)
-                    print SentenceLength('icnale_201302/Base/'+filen)
-                    print FunctionWordCount('icnale_201302/Base/'+filen)
-                    print posgrams('icnale_201302/Base/'+filen)
+                    print 'Grammar :', GrammarCheck('icnale_201302/Base/'+filen)
+                    print 'Spelling :', SpellCheck('icnale_201302/Base/'+filen)
+                    print 'Word Count :', WordCount('icnale_201302/Base/'+filen)
+                    print 'Average Sentence Length :', SentenceLength('icnale_201302/Base/'+filen)
+                    print 'Function Word Count :',FunctionWordCount('icnale_201302/Base/'+filen)
+                    print 'POSGRAMS :',posgrams('icnale_201302/Base/'+filen)
                     break
                     
 
