@@ -15,7 +15,7 @@ def FromDatabase():
                     print 'Word Count :', WordCount('icnale_201302/Base/'+filen)
                     print 'Average Sentence Length :', SentenceLength('icnale_201302/Base/'+filen)
                     print 'Function Word Count :',FunctionWordCount('icnale_201302/Base/'+filen)
-                    print 'POSGRAMS :',posgrams('icnale_201302/Base/'+filen)
+                    print 'POSGRAMS :', posgrams('icnale_201302/Base/'+filen)
                     break
                     
 

@@ -2,7 +2,7 @@
 Language Classifier
 
 ## Data Collected on ICNALE-Written
-|Country Code 	|Country 	|Writers/Essays 	|# of Tokens	|
+|Country Code 	|Country 	|Writers/Essays 	|  # of Tokens	|
 |:--------------:|:---------:|:-----------------:|:-------------:|
 |ENS*   			|USA, UK,CAN, AUS, NZ	|	200/ 400		|	88,792  	|
 | HKG** 			|Hong Kong	| 	100/ 200  		|	46,111		|
@@ -35,12 +35,12 @@ Language Classifier
 
 5.	Function Words Count
 
+6.	POS Bigrams and Trigrams
+
 ###TODO:
 
 1.	Brill Tag
 
-2.	POS - bigrams and trigrams
+2.	Sentence Chunk Boundary detector
 
-3. Sentence Chunk Boundary detector
-
-4. Get Aly the database
+3.	Give Aly the database
