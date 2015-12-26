@@ -30,8 +30,8 @@ Language Classifier
 |:--------------:|:---------:|:-----------------:|:-------------:|:-------------:|
 |||||For NNS|
 |||PTJ: part-time job||A2_0: A2|
-||W: Writing 	CHN, ENS, HKG, IDN, JPN,TWN 	|SMK: non-smoking||B1_1: B1 Lower|
-|S: Speech|KOR, PAK, PHL, SIN, THA,|0 Essay|001-999|B1_2: B1 Upper|
+|S: Speech|CHN, ENS, HKG, IDN, JPN,TWN 	|SMK: non-smoking||B1_1: B1 Lower|
+|W: Writing|KOR, PAK, PHL, SIN, THA,|0 Essay|001-999|B1_2: B1 Upper|
 |||1 Speech (Trial 1)||B2_0: B2 +|
 |||2 Speech (Trial 2)||For NS|
 |||||XX_1 Students|
