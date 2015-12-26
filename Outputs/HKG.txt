@@ -1,0 +1,64 @@
+HKG_A2_PTJ_001.txt
+Grammar & Spelling : (0, 9)
+Word Count : 272
+Average Sentence Length : 15
+Function Word Count : 103
+Number of paragraphs :  1
+
+====================================================================================================
+HKG_A2_SMK_001.txt
+Grammar & Spelling : (0, 11)
+Word Count : 247
+Average Sentence Length : 15
+Function Word Count : 88
+Number of paragraphs :  1
+
+====================================================================================================
+HKG_B11_PTJ_001.txt
+Grammar & Spelling : (3, 24)
+Word Count : 7411
+Average Sentence Length : 17
+Function Word Count : 2926
+Number of paragraphs :  31
+
+====================================================================================================
+HKG_B11_SMK_001.txt
+Grammar & Spelling : (9, 61)
+Word Count : 6934
+Average Sentence Length : 15
+Function Word Count : 2616
+Number of paragraphs :  31
+
+====================================================================================================
+HKG_B12_PTJ_001.txt
+Grammar & Spelling : (19, 44)
+Word Count : 12486
+Average Sentence Length : 17
+Function Word Count : 4917
+Number of paragraphs :  53
+
+====================================================================================================
+HKG_B12_SMK_001.txt
+Grammar & Spelling : (14, 119)
+Word Count : 11952
+Average Sentence Length : 16
+Function Word Count : 4592
+Number of paragraphs :  53
+
+====================================================================================================
+HKG_B2_PTJ_001.txt
+Grammar & Spelling : (3, 6)
+Word Count : 3957
+Average Sentence Length : 18
+Function Word Count : 1582
+Number of paragraphs :  18
+
+====================================================================================================
+HKG_B2_SMK_001.txt
+Grammar & Spelling : (3, 37)
+Word Count : 3926
+Average Sentence Length : 16
+Function Word Count : 1502
+Number of paragraphs :  18
+
+====================================================================================================

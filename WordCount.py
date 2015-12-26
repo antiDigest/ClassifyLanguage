@@ -27,6 +27,14 @@ with open('EnglishQuantifiers.txt','r') as f:
 allwords = auxverbs + conjunctions + determiners +prepositions+pronouns+quantifiers
 # print allwords
 
+def paragraphs(filename):
+	with open(filename,'r') as f:
+		fl = f.read()
+	# words = len(fl.split(' '))
+	sen = len(re.split(r'\n\n', fl))
+	return (sen)
+
+
 def SentenceLength(filename):
 	with open(filename,'r') as f:
 		fl = f.read()

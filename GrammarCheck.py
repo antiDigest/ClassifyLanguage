@@ -7,12 +7,13 @@ def GrammarCheck(filename):
 
 	app = win32com.client.gencache.EnsureDispatch('Word.Application')
 	doc = app.Documents.Open(path)
-	errors = doc.GrammaticalErrors.Count
+	errors_g = doc.GrammaticalErrors.Count
+	errors_s = doc.SpellingErrors.Count
 	# print "Grammar: %d" % (errors,)
 
 	app.Quit(wdDoNotSaveChanges)
 
-	return errors
+	return errors_g, errors_s
 
 def SpellCheck(filename):
 	wdDoNotSaveChanges = 0

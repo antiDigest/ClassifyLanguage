@@ -1,0 +1,3200 @@
+ENS_PTJ_001_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 267
+Average Sentence Length : 24
+Function Word Count : 116
+Function word count to word count ratio : 0.434456928839
+
+====================================================================================================
+ENS_PTJ_002_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 232
+Average Sentence Length : 16
+Function Word Count : 94
+Function word count to word count ratio : 0.405172413793
+
+====================================================================================================
+ENS_PTJ_003_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 245
+Average Sentence Length : 30
+Function Word Count : 120
+Function word count to word count ratio : 0.489795918367
+
+====================================================================================================
+ENS_PTJ_004_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 228
+Average Sentence Length : 22
+Function Word Count : 113
+Function word count to word count ratio : 0.495614035088
+
+====================================================================================================
+ENS_PTJ_005_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 277
+Average Sentence Length : 30
+Function Word Count : 140
+Function word count to word count ratio : 0.505415162455
+
+====================================================================================================
+ENS_PTJ_006_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 20
+Function Word Count : 86
+Function word count to word count ratio : 0.419512195122
+
+====================================================================================================
+ENS_PTJ_007_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 23
+Function Word Count : 89
+Function word count to word count ratio : 0.425837320574
+
+====================================================================================================
+ENS_PTJ_008_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 215
+Average Sentence Length : 26
+Function Word Count : 105
+Function word count to word count ratio : 0.488372093023
+
+====================================================================================================
+ENS_PTJ_009_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 223
+Average Sentence Length : 27
+Function Word Count : 100
+Function word count to word count ratio : 0.448430493274
+
+====================================================================================================
+ENS_PTJ_010_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 217
+Average Sentence Length : 27
+Function Word Count : 96
+Function word count to word count ratio : 0.442396313364
+
+====================================================================================================
+ENS_PTJ_011_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 208
+Average Sentence Length : 26
+Function Word Count : 90
+Function word count to word count ratio : 0.432692307692
+
+====================================================================================================
+ENS_PTJ_012_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 29
+Function Word Count : 97
+Function word count to word count ratio : 0.473170731707
+
+====================================================================================================
+ENS_PTJ_013_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 23
+Function Word Count : 91
+Function word count to word count ratio : 0.43961352657
+
+====================================================================================================
+ENS_PTJ_014_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 206
+Average Sentence Length : 22
+Function Word Count : 88
+Function word count to word count ratio : 0.427184466019
+
+====================================================================================================
+ENS_PTJ_015_XX_0.txt
+Grammar & Spelling : (1, 1)
+Word Count : 203
+Average Sentence Length : 22
+Function Word Count : 88
+Function word count to word count ratio : 0.433497536946
+
+====================================================================================================
+ENS_PTJ_016_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 23
+Function Word Count : 98
+Function word count to word count ratio : 0.464454976303
+
+====================================================================================================
+ENS_PTJ_017_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 26
+Function Word Count : 99
+Function word count to word count ratio : 0.469194312796
+
+====================================================================================================
+ENS_PTJ_018_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 227
+Average Sentence Length : 22
+Function Word Count : 98
+Function word count to word count ratio : 0.431718061674
+
+====================================================================================================
+ENS_PTJ_019_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 17
+Function Word Count : 80
+Function word count to word count ratio : 0.380952380952
+
+====================================================================================================
+ENS_PTJ_020_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 210
+Average Sentence Length : 23
+Function Word Count : 91
+Function word count to word count ratio : 0.433333333333
+
+====================================================================================================
+ENS_PTJ_021_XX_0.txt
+Grammar & Spelling : (0, 12)
+Word Count : 213
+Average Sentence Length : 30
+Function Word Count : 98
+Function word count to word count ratio : 0.460093896714
+
+====================================================================================================
+ENS_PTJ_022_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 23
+Function Word Count : 99
+Function word count to word count ratio : 0.473684210526
+
+====================================================================================================
+ENS_PTJ_023_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 217
+Average Sentence Length : 27
+Function Word Count : 97
+Function word count to word count ratio : 0.447004608295
+
+====================================================================================================
+ENS_PTJ_024_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 201
+Average Sentence Length : 28
+Function Word Count : 92
+Function word count to word count ratio : 0.457711442786
+
+====================================================================================================
+ENS_PTJ_025_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 212
+Average Sentence Length : 19
+Function Word Count : 83
+Function word count to word count ratio : 0.391509433962
+
+====================================================================================================
+ENS_PTJ_026_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 26
+Function Word Count : 98
+Function word count to word count ratio : 0.457943925234
+
+====================================================================================================
+ENS_PTJ_027_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 240
+Average Sentence Length : 21
+Function Word Count : 108
+Function word count to word count ratio : 0.45
+
+====================================================================================================
+ENS_PTJ_028_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 213
+Average Sentence Length : 30
+Function Word Count : 95
+Function word count to word count ratio : 0.446009389671
+
+====================================================================================================
+ENS_PTJ_029_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 42
+Function Word Count : 97
+Function word count to word count ratio : 0.45971563981
+
+====================================================================================================
+ENS_PTJ_030_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 218
+Average Sentence Length : 31
+Function Word Count : 100
+Function word count to word count ratio : 0.45871559633
+
+====================================================================================================
+ENS_PTJ_031_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 30
+Function Word Count : 95
+Function word count to word count ratio : 0.452380952381
+
+====================================================================================================
+ENS_PTJ_032_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 223
+Average Sentence Length : 24
+Function Word Count : 101
+Function word count to word count ratio : 0.452914798206
+
+====================================================================================================
+ENS_PTJ_033_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 234
+Average Sentence Length : 23
+Function Word Count : 106
+Function word count to word count ratio : 0.452991452991
+
+====================================================================================================
+ENS_PTJ_034_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 29
+Function Word Count : 97
+Function word count to word count ratio : 0.464114832536
+
+====================================================================================================
+ENS_PTJ_035_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 221
+Average Sentence Length : 24
+Function Word Count : 100
+Function word count to word count ratio : 0.452488687783
+
+====================================================================================================
+ENS_PTJ_036_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 29
+Function Word Count : 93
+Function word count to word count ratio : 0.447115384615
+
+====================================================================================================
+ENS_PTJ_037_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 203
+Average Sentence Length : 18
+Function Word Count : 94
+Function word count to word count ratio : 0.463054187192
+
+====================================================================================================
+ENS_PTJ_038_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 27
+Function Word Count : 101
+Function word count to word count ratio : 0.467592592593
+
+====================================================================================================
+ENS_PTJ_039_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 24
+Function Word Count : 92
+Function word count to word count ratio : 0.425925925926
+
+====================================================================================================
+ENS_PTJ_040_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 21
+Function Word Count : 90
+Function word count to word count ratio : 0.416666666667
+
+====================================================================================================
+ENS_PTJ_041_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 229
+Average Sentence Length : 16
+Function Word Count : 106
+Function word count to word count ratio : 0.46288209607
+
+====================================================================================================
+ENS_PTJ_042_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 225
+Average Sentence Length : 16
+Function Word Count : 100
+Function word count to word count ratio : 0.444444444444
+
+====================================================================================================
+ENS_PTJ_043_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 20
+Function Word Count : 91
+Function word count to word count ratio : 0.443902439024
+
+====================================================================================================
+ENS_PTJ_044_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 200
+Average Sentence Length : 25
+Function Word Count : 91
+Function word count to word count ratio : 0.455
+
+====================================================================================================
+ENS_PTJ_045_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 20
+Function Word Count : 89
+Function word count to word count ratio : 0.425837320574
+
+====================================================================================================
+ENS_PTJ_046_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 22
+Function Word Count : 86
+Function word count to word count ratio : 0.419512195122
+
+====================================================================================================
+ENS_PTJ_047_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 30
+Function Word Count : 93
+Function word count to word count ratio : 0.440758293839
+
+====================================================================================================
+ENS_PTJ_048_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 223
+Average Sentence Length : 20
+Function Word Count : 99
+Function word count to word count ratio : 0.443946188341
+
+====================================================================================================
+ENS_PTJ_049_XX_0.txt
+Grammar & Spelling : (1, 4)
+Word Count : 216
+Average Sentence Length : 24
+Function Word Count : 100
+Function word count to word count ratio : 0.462962962963
+
+====================================================================================================
+ENS_PTJ_050_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 212
+Average Sentence Length : 26
+Function Word Count : 104
+Function word count to word count ratio : 0.490566037736
+
+====================================================================================================
+ENS_PTJ_051_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 30
+Function Word Count : 102
+Function word count to word count ratio : 0.483412322275
+
+====================================================================================================
+ENS_PTJ_052_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 220
+Average Sentence Length : 31
+Function Word Count : 103
+Function word count to word count ratio : 0.468181818182
+
+====================================================================================================
+ENS_PTJ_053_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 206
+Average Sentence Length : 17
+Function Word Count : 87
+Function word count to word count ratio : 0.422330097087
+
+====================================================================================================
+ENS_PTJ_054_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 218
+Average Sentence Length : 21
+Function Word Count : 93
+Function word count to word count ratio : 0.426605504587
+
+====================================================================================================
+ENS_PTJ_055_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 19
+Function Word Count : 91
+Function word count to word count ratio : 0.42523364486
+
+====================================================================================================
+ENS_PTJ_056_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 23
+Function Word Count : 95
+Function word count to word count ratio : 0.443925233645
+
+====================================================================================================
+ENS_PTJ_057_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 199
+Average Sentence Length : 28
+Function Word Count : 92
+Function word count to word count ratio : 0.462311557789
+
+====================================================================================================
+ENS_PTJ_058_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 200
+Average Sentence Length : 20
+Function Word Count : 87
+Function word count to word count ratio : 0.435
+
+====================================================================================================
+ENS_PTJ_059_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 21
+Function Word Count : 98
+Function word count to word count ratio : 0.466666666667
+
+====================================================================================================
+ENS_PTJ_060_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 25
+Function Word Count : 85
+Function word count to word count ratio : 0.414634146341
+
+====================================================================================================
+ENS_PTJ_061_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 224
+Average Sentence Length : 28
+Function Word Count : 99
+Function word count to word count ratio : 0.441964285714
+
+====================================================================================================
+ENS_PTJ_062_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 251
+Average Sentence Length : 31
+Function Word Count : 123
+Function word count to word count ratio : 0.490039840637
+
+====================================================================================================
+ENS_PTJ_063_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 231
+Average Sentence Length : 33
+Function Word Count : 111
+Function word count to word count ratio : 0.480519480519
+
+====================================================================================================
+ENS_PTJ_064_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 202
+Average Sentence Length : 28
+Function Word Count : 92
+Function word count to word count ratio : 0.455445544554
+
+====================================================================================================
+ENS_PTJ_065_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 26
+Function Word Count : 94
+Function word count to word count ratio : 0.447619047619
+
+====================================================================================================
+ENS_PTJ_066_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 213
+Average Sentence Length : 26
+Function Word Count : 92
+Function word count to word count ratio : 0.431924882629
+
+====================================================================================================
+ENS_PTJ_067_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 232
+Average Sentence Length : 23
+Function Word Count : 100
+Function word count to word count ratio : 0.431034482759
+
+====================================================================================================
+ENS_PTJ_068_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 23
+Function Word Count : 92
+Function word count to word count ratio : 0.44019138756
+
+====================================================================================================
+ENS_PTJ_069_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 27
+Function Word Count : 99
+Function word count to word count ratio : 0.458333333333
+
+====================================================================================================
+ENS_PTJ_070_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 203
+Average Sentence Length : 25
+Function Word Count : 87
+Function word count to word count ratio : 0.428571428571
+
+====================================================================================================
+ENS_PTJ_071_XX_0.txt
+Grammar & Spelling : (1, 5)
+Word Count : 215
+Average Sentence Length : 26
+Function Word Count : 91
+Function word count to word count ratio : 0.423255813953
+
+====================================================================================================
+ENS_PTJ_072_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 197
+Average Sentence Length : 24
+Function Word Count : 93
+Function word count to word count ratio : 0.472081218274
+
+====================================================================================================
+ENS_PTJ_073_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 221
+Average Sentence Length : 36
+Function Word Count : 104
+Function word count to word count ratio : 0.470588235294
+
+====================================================================================================
+ENS_PTJ_074_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 218
+Average Sentence Length : 31
+Function Word Count : 97
+Function word count to word count ratio : 0.44495412844
+
+====================================================================================================
+ENS_PTJ_075_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 200
+Average Sentence Length : 33
+Function Word Count : 97
+Function word count to word count ratio : 0.485
+
+====================================================================================================
+ENS_PTJ_076_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 28
+Function Word Count : 95
+Function word count to word count ratio : 0.47263681592
+
+====================================================================================================
+ENS_PTJ_077_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 215
+Average Sentence Length : 30
+Function Word Count : 93
+Function word count to word count ratio : 0.432558139535
+
+====================================================================================================
+ENS_PTJ_078_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 25
+Function Word Count : 89
+Function word count to word count ratio : 0.436274509804
+
+====================================================================================================
+ENS_PTJ_079_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 17
+Function Word Count : 79
+Function word count to word count ratio : 0.37619047619
+
+====================================================================================================
+ENS_PTJ_080_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 239
+Average Sentence Length : 18
+Function Word Count : 90
+Function word count to word count ratio : 0.376569037657
+
+====================================================================================================
+ENS_PTJ_081_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 269
+Average Sentence Length : 22
+Function Word Count : 110
+Function word count to word count ratio : 0.408921933086
+
+====================================================================================================
+ENS_PTJ_082_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 220
+Average Sentence Length : 24
+Function Word Count : 95
+Function word count to word count ratio : 0.431818181818
+
+====================================================================================================
+ENS_PTJ_083_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 298
+Average Sentence Length : 21
+Function Word Count : 120
+Function word count to word count ratio : 0.402684563758
+
+====================================================================================================
+ENS_PTJ_084_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 203
+Average Sentence Length : 16
+Function Word Count : 61
+Function word count to word count ratio : 0.300492610837
+
+====================================================================================================
+ENS_PTJ_085_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 264
+Average Sentence Length : 22
+Function Word Count : 108
+Function word count to word count ratio : 0.409090909091
+
+====================================================================================================
+ENS_PTJ_086_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 12
+Function Word Count : 80
+Function word count to word count ratio : 0.380952380952
+
+====================================================================================================
+ENS_PTJ_087_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 261
+Average Sentence Length : 20
+Function Word Count : 111
+Function word count to word count ratio : 0.425287356322
+
+====================================================================================================
+ENS_PTJ_088_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 234
+Average Sentence Length : 18
+Function Word Count : 107
+Function word count to word count ratio : 0.457264957265
+
+====================================================================================================
+ENS_PTJ_089_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 295
+Average Sentence Length : 17
+Function Word Count : 110
+Function word count to word count ratio : 0.372881355932
+
+====================================================================================================
+ENS_PTJ_090_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 233
+Average Sentence Length : 17
+Function Word Count : 83
+Function word count to word count ratio : 0.356223175966
+
+====================================================================================================
+ENS_PTJ_091_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 218
+Average Sentence Length : 16
+Function Word Count : 88
+Function word count to word count ratio : 0.403669724771
+
+====================================================================================================
+ENS_PTJ_092_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 291
+Average Sentence Length : 19
+Function Word Count : 121
+Function word count to word count ratio : 0.415807560137
+
+====================================================================================================
+ENS_PTJ_093_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 224
+Average Sentence Length : 22
+Function Word Count : 103
+Function word count to word count ratio : 0.459821428571
+
+====================================================================================================
+ENS_PTJ_094_XX_0.txt
+Grammar & Spelling : (1, 12)
+Word Count : 297
+Average Sentence Length : 18
+Function Word Count : 118
+Function word count to word count ratio : 0.397306397306
+
+====================================================================================================
+ENS_PTJ_095_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 228
+Average Sentence Length : 17
+Function Word Count : 94
+Function word count to word count ratio : 0.412280701754
+
+====================================================================================================
+ENS_PTJ_096_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 248
+Average Sentence Length : 17
+Function Word Count : 97
+Function word count to word count ratio : 0.391129032258
+
+====================================================================================================
+ENS_PTJ_097_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 246
+Average Sentence Length : 12
+Function Word Count : 76
+Function word count to word count ratio : 0.308943089431
+
+====================================================================================================
+ENS_PTJ_098_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 232
+Average Sentence Length : 23
+Function Word Count : 95
+Function word count to word count ratio : 0.409482758621
+
+====================================================================================================
+ENS_PTJ_099_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 225
+Average Sentence Length : 17
+Function Word Count : 98
+Function word count to word count ratio : 0.435555555556
+
+====================================================================================================
+ENS_PTJ_100_XX_0.txt
+Grammar & Spelling : (0, 8)
+Word Count : 267
+Average Sentence Length : 16
+Function Word Count : 100
+Function word count to word count ratio : 0.374531835206
+
+====================================================================================================
+ENS_PTJ_101_XX_0.txt
+Grammar & Spelling : (1, 7)
+Word Count : 231
+Average Sentence Length : 19
+Function Word Count : 77
+Function word count to word count ratio : 0.333333333333
+
+====================================================================================================
+ENS_PTJ_102_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 252
+Average Sentence Length : 22
+Function Word Count : 107
+Function word count to word count ratio : 0.424603174603
+
+====================================================================================================
+ENS_PTJ_103_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 19
+Function Word Count : 89
+Function word count to word count ratio : 0.412037037037
+
+====================================================================================================
+ENS_PTJ_104_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 205
+Average Sentence Length : 18
+Function Word Count : 84
+Function word count to word count ratio : 0.409756097561
+
+====================================================================================================
+ENS_PTJ_105_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 20
+Function Word Count : 87
+Function word count to word count ratio : 0.420289855072
+
+====================================================================================================
+ENS_PTJ_106_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 203
+Average Sentence Length : 13
+Function Word Count : 64
+Function word count to word count ratio : 0.315270935961
+
+====================================================================================================
+ENS_PTJ_107_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 212
+Average Sentence Length : 23
+Function Word Count : 84
+Function word count to word count ratio : 0.396226415094
+
+====================================================================================================
+ENS_PTJ_108_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 262
+Average Sentence Length : 21
+Function Word Count : 107
+Function word count to word count ratio : 0.408396946565
+
+====================================================================================================
+ENS_PTJ_109_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 299
+Average Sentence Length : 18
+Function Word Count : 113
+Function word count to word count ratio : 0.377926421405
+
+====================================================================================================
+ENS_PTJ_110_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 270
+Average Sentence Length : 15
+Function Word Count : 109
+Function word count to word count ratio : 0.403703703704
+
+====================================================================================================
+ENS_PTJ_111_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 231
+Average Sentence Length : 21
+Function Word Count : 89
+Function word count to word count ratio : 0.385281385281
+
+====================================================================================================
+ENS_PTJ_112_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 207
+Average Sentence Length : 25
+Function Word Count : 84
+Function word count to word count ratio : 0.405797101449
+
+====================================================================================================
+ENS_PTJ_113_XX_0.txt
+Grammar & Spelling : (2, 1)
+Word Count : 224
+Average Sentence Length : 16
+Function Word Count : 94
+Function word count to word count ratio : 0.419642857143
+
+====================================================================================================
+ENS_PTJ_114_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 186
+Average Sentence Length : 13
+Function Word Count : 66
+Function word count to word count ratio : 0.354838709677
+
+====================================================================================================
+ENS_PTJ_115_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 220
+Average Sentence Length : 31
+Function Word Count : 100
+Function word count to word count ratio : 0.454545454545
+
+====================================================================================================
+ENS_PTJ_116_XX_0.txt
+Grammar & Spelling : (2, 2)
+Word Count : 278
+Average Sentence Length : 23
+Function Word Count : 108
+Function word count to word count ratio : 0.388489208633
+
+====================================================================================================
+ENS_PTJ_117_XX_0.txt
+Grammar & Spelling : (2, 14)
+Word Count : 271
+Average Sentence Length : 18
+Function Word Count : 104
+Function word count to word count ratio : 0.383763837638
+
+====================================================================================================
+ENS_PTJ_118_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 220
+Average Sentence Length : 22
+Function Word Count : 88
+Function word count to word count ratio : 0.4
+
+====================================================================================================
+ENS_PTJ_119_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 22
+Function Word Count : 90
+Function word count to word count ratio : 0.441176470588
+
+====================================================================================================
+ENS_PTJ_120_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 229
+Average Sentence Length : 22
+Function Word Count : 92
+Function word count to word count ratio : 0.401746724891
+
+====================================================================================================
+ENS_PTJ_121_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 226
+Average Sentence Length : 17
+Function Word Count : 88
+Function word count to word count ratio : 0.389380530973
+
+====================================================================================================
+ENS_PTJ_122_XX_0.txt
+Grammar & Spelling : (1, 3)
+Word Count : 244
+Average Sentence Length : 16
+Function Word Count : 87
+Function word count to word count ratio : 0.356557377049
+
+====================================================================================================
+ENS_PTJ_123_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 278
+Average Sentence Length : 27
+Function Word Count : 123
+Function word count to word count ratio : 0.442446043165
+
+====================================================================================================
+ENS_PTJ_124_XX_0.txt
+Grammar & Spelling : (0, 9)
+Word Count : 293
+Average Sentence Length : 19
+Function Word Count : 107
+Function word count to word count ratio : 0.365187713311
+
+====================================================================================================
+ENS_PTJ_125_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 252
+Average Sentence Length : 21
+Function Word Count : 95
+Function word count to word count ratio : 0.376984126984
+
+====================================================================================================
+ENS_PTJ_126_XX_0.txt
+Grammar & Spelling : (0, 9)
+Word Count : 257
+Average Sentence Length : 28
+Function Word Count : 109
+Function word count to word count ratio : 0.424124513619
+
+====================================================================================================
+ENS_PTJ_127_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 245
+Average Sentence Length : 17
+Function Word Count : 101
+Function word count to word count ratio : 0.412244897959
+
+====================================================================================================
+ENS_PTJ_128_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 224
+Average Sentence Length : 32
+Function Word Count : 94
+Function word count to word count ratio : 0.419642857143
+
+====================================================================================================
+ENS_PTJ_129_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 223
+Average Sentence Length : 20
+Function Word Count : 94
+Function word count to word count ratio : 0.421524663677
+
+====================================================================================================
+ENS_PTJ_130_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 226
+Average Sentence Length : 28
+Function Word Count : 110
+Function word count to word count ratio : 0.486725663717
+
+====================================================================================================
+ENS_PTJ_131_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 229
+Average Sentence Length : 25
+Function Word Count : 103
+Function word count to word count ratio : 0.449781659389
+
+====================================================================================================
+ENS_PTJ_132_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 216
+Average Sentence Length : 24
+Function Word Count : 99
+Function word count to word count ratio : 0.458333333333
+
+====================================================================================================
+ENS_PTJ_133_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 20
+Function Word Count : 87
+Function word count to word count ratio : 0.416267942584
+
+====================================================================================================
+ENS_PTJ_134_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 228
+Average Sentence Length : 25
+Function Word Count : 105
+Function word count to word count ratio : 0.460526315789
+
+====================================================================================================
+ENS_PTJ_135_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 226
+Average Sentence Length : 20
+Function Word Count : 101
+Function word count to word count ratio : 0.446902654867
+
+====================================================================================================
+ENS_PTJ_136_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 204
+Average Sentence Length : 29
+Function Word Count : 87
+Function word count to word count ratio : 0.426470588235
+
+====================================================================================================
+ENS_PTJ_137_XX_0.txt
+Grammar & Spelling : (0, 8)
+Word Count : 207
+Average Sentence Length : 23
+Function Word Count : 84
+Function word count to word count ratio : 0.405797101449
+
+====================================================================================================
+ENS_PTJ_138_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 25
+Function Word Count : 96
+Function word count to word count ratio : 0.463768115942
+
+====================================================================================================
+ENS_PTJ_139_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 202
+Average Sentence Length : 25
+Function Word Count : 89
+Function word count to word count ratio : 0.440594059406
+
+====================================================================================================
+ENS_PTJ_140_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 19
+Function Word Count : 84
+Function word count to word count ratio : 0.392523364486
+
+====================================================================================================
+ENS_PTJ_141_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 220
+Average Sentence Length : 27
+Function Word Count : 104
+Function word count to word count ratio : 0.472727272727
+
+====================================================================================================
+ENS_PTJ_142_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 201
+Average Sentence Length : 25
+Function Word Count : 88
+Function word count to word count ratio : 0.437810945274
+
+====================================================================================================
+ENS_PTJ_143_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 213
+Average Sentence Length : 30
+Function Word Count : 99
+Function word count to word count ratio : 0.464788732394
+
+====================================================================================================
+ENS_PTJ_144_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 205
+Average Sentence Length : 29
+Function Word Count : 105
+Function word count to word count ratio : 0.512195121951
+
+====================================================================================================
+ENS_PTJ_145_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 23
+Function Word Count : 99
+Function word count to word count ratio : 0.46261682243
+
+====================================================================================================
+ENS_PTJ_146_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 200
+Average Sentence Length : 25
+Function Word Count : 89
+Function word count to word count ratio : 0.445
+
+====================================================================================================
+ENS_PTJ_147_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 273
+Average Sentence Length : 21
+Function Word Count : 122
+Function word count to word count ratio : 0.446886446886
+
+====================================================================================================
+ENS_PTJ_148_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 252
+Average Sentence Length : 19
+Function Word Count : 121
+Function word count to word count ratio : 0.480158730159
+
+====================================================================================================
+ENS_PTJ_149_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 221
+Average Sentence Length : 22
+Function Word Count : 96
+Function word count to word count ratio : 0.434389140271
+
+====================================================================================================
+ENS_PTJ_150_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 239
+Average Sentence Length : 29
+Function Word Count : 100
+Function word count to word count ratio : 0.418410041841
+
+====================================================================================================
+ENS_PTJ_151_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 251
+Average Sentence Length : 20
+Function Word Count : 118
+Function word count to word count ratio : 0.470119521912
+
+====================================================================================================
+ENS_PTJ_152_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 225
+Average Sentence Length : 18
+Function Word Count : 94
+Function word count to word count ratio : 0.417777777778
+
+====================================================================================================
+ENS_PTJ_153_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 228
+Average Sentence Length : 25
+Function Word Count : 110
+Function word count to word count ratio : 0.482456140351
+
+====================================================================================================
+ENS_PTJ_154_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 208
+Average Sentence Length : 20
+Function Word Count : 98
+Function word count to word count ratio : 0.471153846154
+
+====================================================================================================
+ENS_PTJ_155_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 226
+Average Sentence Length : 18
+Function Word Count : 103
+Function word count to word count ratio : 0.455752212389
+
+====================================================================================================
+ENS_PTJ_156_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 217
+Average Sentence Length : 19
+Function Word Count : 100
+Function word count to word count ratio : 0.460829493088
+
+====================================================================================================
+ENS_PTJ_157_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 239
+Average Sentence Length : 23
+Function Word Count : 112
+Function word count to word count ratio : 0.468619246862
+
+====================================================================================================
+ENS_PTJ_158_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 228
+Average Sentence Length : 25
+Function Word Count : 103
+Function word count to word count ratio : 0.451754385965
+
+====================================================================================================
+ENS_PTJ_159_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 219
+Average Sentence Length : 27
+Function Word Count : 95
+Function word count to word count ratio : 0.433789954338
+
+====================================================================================================
+ENS_PTJ_160_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 204
+Average Sentence Length : 25
+Function Word Count : 91
+Function word count to word count ratio : 0.446078431373
+
+====================================================================================================
+ENS_PTJ_161_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 25
+Function Word Count : 92
+Function word count to word count ratio : 0.450980392157
+
+====================================================================================================
+ENS_PTJ_162_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 211
+Average Sentence Length : 23
+Function Word Count : 93
+Function word count to word count ratio : 0.440758293839
+
+====================================================================================================
+ENS_PTJ_163_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 215
+Average Sentence Length : 21
+Function Word Count : 101
+Function word count to word count ratio : 0.46976744186
+
+====================================================================================================
+ENS_PTJ_164_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 213
+Average Sentence Length : 19
+Function Word Count : 89
+Function word count to word count ratio : 0.417840375587
+
+====================================================================================================
+ENS_PTJ_165_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 214
+Average Sentence Length : 21
+Function Word Count : 96
+Function word count to word count ratio : 0.448598130841
+
+====================================================================================================
+ENS_PTJ_166_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 205
+Average Sentence Length : 22
+Function Word Count : 86
+Function word count to word count ratio : 0.419512195122
+
+====================================================================================================
+ENS_PTJ_167_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 228
+Average Sentence Length : 19
+Function Word Count : 85
+Function word count to word count ratio : 0.372807017544
+
+====================================================================================================
+ENS_PTJ_168_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 202
+Average Sentence Length : 20
+Function Word Count : 84
+Function word count to word count ratio : 0.415841584158
+
+====================================================================================================
+ENS_PTJ_169_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 240
+Average Sentence Length : 30
+Function Word Count : 98
+Function word count to word count ratio : 0.408333333333
+
+====================================================================================================
+ENS_PTJ_170_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 216
+Average Sentence Length : 19
+Function Word Count : 90
+Function word count to word count ratio : 0.416666666667
+
+====================================================================================================
+ENS_PTJ_171_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 20
+Function Word Count : 86
+Function word count to word count ratio : 0.415458937198
+
+====================================================================================================
+ENS_PTJ_172_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 208
+Average Sentence Length : 23
+Function Word Count : 88
+Function word count to word count ratio : 0.423076923077
+
+====================================================================================================
+ENS_PTJ_173_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 26
+Function Word Count : 105
+Function word count to word count ratio : 0.504807692308
+
+====================================================================================================
+ENS_PTJ_174_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 200
+Average Sentence Length : 20
+Function Word Count : 87
+Function word count to word count ratio : 0.435
+
+====================================================================================================
+ENS_PTJ_175_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 22
+Function Word Count : 91
+Function word count to word count ratio : 0.452736318408
+
+====================================================================================================
+ENS_PTJ_176_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 22
+Function Word Count : 90
+Function word count to word count ratio : 0.439024390244
+
+====================================================================================================
+ENS_PTJ_177_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 217
+Average Sentence Length : 27
+Function Word Count : 97
+Function word count to word count ratio : 0.447004608295
+
+====================================================================================================
+ENS_PTJ_178_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 212
+Average Sentence Length : 21
+Function Word Count : 101
+Function word count to word count ratio : 0.47641509434
+
+====================================================================================================
+ENS_PTJ_179_XX_0.txt
+Grammar & Spelling : (1, 2)
+Word Count : 210
+Average Sentence Length : 17
+Function Word Count : 100
+Function word count to word count ratio : 0.47619047619
+
+====================================================================================================
+ENS_PTJ_180_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 209
+Average Sentence Length : 19
+Function Word Count : 92
+Function word count to word count ratio : 0.44019138756
+
+====================================================================================================
+ENS_PTJ_181_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 205
+Average Sentence Length : 29
+Function Word Count : 98
+Function word count to word count ratio : 0.478048780488
+
+====================================================================================================
+ENS_PTJ_182_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 23
+Function Word Count : 91
+Function word count to word count ratio : 0.43961352657
+
+====================================================================================================
+ENS_PTJ_183_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 26
+Function Word Count : 93
+Function word count to word count ratio : 0.442857142857
+
+====================================================================================================
+ENS_PTJ_184_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 213
+Average Sentence Length : 23
+Function Word Count : 92
+Function word count to word count ratio : 0.431924882629
+
+====================================================================================================
+ENS_PTJ_185_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 203
+Average Sentence Length : 29
+Function Word Count : 95
+Function word count to word count ratio : 0.467980295567
+
+====================================================================================================
+ENS_PTJ_186_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 205
+Average Sentence Length : 18
+Function Word Count : 93
+Function word count to word count ratio : 0.453658536585
+
+====================================================================================================
+ENS_PTJ_187_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 26
+Function Word Count : 88
+Function word count to word count ratio : 0.421052631579
+
+====================================================================================================
+ENS_PTJ_188_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 259
+Average Sentence Length : 25
+Function Word Count : 121
+Function word count to word count ratio : 0.467181467181
+
+====================================================================================================
+ENS_PTJ_189_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 231
+Average Sentence Length : 19
+Function Word Count : 97
+Function word count to word count ratio : 0.419913419913
+
+====================================================================================================
+ENS_PTJ_190_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 218
+Average Sentence Length : 24
+Function Word Count : 102
+Function word count to word count ratio : 0.467889908257
+
+====================================================================================================
+ENS_PTJ_191_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 202
+Average Sentence Length : 20
+Function Word Count : 83
+Function word count to word count ratio : 0.410891089109
+
+====================================================================================================
+ENS_PTJ_192_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 203
+Average Sentence Length : 20
+Function Word Count : 96
+Function word count to word count ratio : 0.472906403941
+
+====================================================================================================
+ENS_PTJ_193_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 203
+Average Sentence Length : 29
+Function Word Count : 96
+Function word count to word count ratio : 0.472906403941
+
+====================================================================================================
+ENS_PTJ_194_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 204
+Average Sentence Length : 22
+Function Word Count : 92
+Function word count to word count ratio : 0.450980392157
+
+====================================================================================================
+ENS_PTJ_195_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 219
+Average Sentence Length : 24
+Function Word Count : 89
+Function word count to word count ratio : 0.406392694064
+
+====================================================================================================
+ENS_PTJ_196_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 225
+Average Sentence Length : 32
+Function Word Count : 104
+Function word count to word count ratio : 0.462222222222
+
+====================================================================================================
+ENS_PTJ_197_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 212
+Average Sentence Length : 21
+Function Word Count : 94
+Function word count to word count ratio : 0.443396226415
+
+====================================================================================================
+ENS_PTJ_198_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 26
+Function Word Count : 93
+Function word count to word count ratio : 0.444976076555
+
+====================================================================================================
+ENS_PTJ_199_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 223
+Average Sentence Length : 24
+Function Word Count : 101
+Function word count to word count ratio : 0.452914798206
+
+====================================================================================================
+ENS_PTJ_200_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 225
+Average Sentence Length : 25
+Function Word Count : 97
+Function word count to word count ratio : 0.431111111111
+
+====================================================================================================
+ENS_SMK_001_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 249
+Average Sentence Length : 15
+Function Word Count : 110
+Function word count to word count ratio : 0.441767068273
+
+====================================================================================================
+ENS_SMK_002_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 229
+Average Sentence Length : 14
+Function Word Count : 95
+Function word count to word count ratio : 0.414847161572
+
+====================================================================================================
+ENS_SMK_003_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 19
+Function Word Count : 83
+Function word count to word count ratio : 0.384259259259
+
+====================================================================================================
+ENS_SMK_004_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 21
+Function Word Count : 96
+Function word count to word count ratio : 0.448598130841
+
+====================================================================================================
+ENS_SMK_005_XX_0.txt
+Grammar & Spelling : (1, 2)
+Word Count : 216
+Average Sentence Length : 21
+Function Word Count : 105
+Function word count to word count ratio : 0.486111111111
+
+====================================================================================================
+ENS_SMK_006_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 25
+Function Word Count : 86
+Function word count to word count ratio : 0.427860696517
+
+====================================================================================================
+ENS_SMK_007_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 218
+Average Sentence Length : 19
+Function Word Count : 91
+Function word count to word count ratio : 0.417431192661
+
+====================================================================================================
+ENS_SMK_008_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 215
+Average Sentence Length : 23
+Function Word Count : 88
+Function word count to word count ratio : 0.409302325581
+
+====================================================================================================
+ENS_SMK_009_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 212
+Average Sentence Length : 19
+Function Word Count : 99
+Function word count to word count ratio : 0.466981132075
+
+====================================================================================================
+ENS_SMK_010_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 220
+Average Sentence Length : 20
+Function Word Count : 93
+Function word count to word count ratio : 0.422727272727
+
+====================================================================================================
+ENS_SMK_011_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 218
+Average Sentence Length : 19
+Function Word Count : 95
+Function word count to word count ratio : 0.435779816514
+
+====================================================================================================
+ENS_SMK_012_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 209
+Average Sentence Length : 29
+Function Word Count : 92
+Function word count to word count ratio : 0.44019138756
+
+====================================================================================================
+ENS_SMK_013_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 20
+Function Word Count : 92
+Function word count to word count ratio : 0.457711442786
+
+====================================================================================================
+ENS_SMK_014_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 23
+Function Word Count : 96
+Function word count to word count ratio : 0.448598130841
+
+====================================================================================================
+ENS_SMK_015_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 212
+Average Sentence Length : 23
+Function Word Count : 97
+Function word count to word count ratio : 0.457547169811
+
+====================================================================================================
+ENS_SMK_016_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 22
+Function Word Count : 89
+Function word count to word count ratio : 0.436274509804
+
+====================================================================================================
+ENS_SMK_017_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 210
+Average Sentence Length : 19
+Function Word Count : 84
+Function word count to word count ratio : 0.4
+
+====================================================================================================
+ENS_SMK_018_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 213
+Average Sentence Length : 21
+Function Word Count : 96
+Function word count to word count ratio : 0.450704225352
+
+====================================================================================================
+ENS_SMK_019_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 222
+Average Sentence Length : 27
+Function Word Count : 91
+Function word count to word count ratio : 0.40990990991
+
+====================================================================================================
+ENS_SMK_020_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 207
+Average Sentence Length : 20
+Function Word Count : 96
+Function word count to word count ratio : 0.463768115942
+
+====================================================================================================
+ENS_SMK_021_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 212
+Average Sentence Length : 23
+Function Word Count : 90
+Function word count to word count ratio : 0.424528301887
+
+====================================================================================================
+ENS_SMK_022_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 206
+Average Sentence Length : 22
+Function Word Count : 87
+Function word count to word count ratio : 0.422330097087
+
+====================================================================================================
+ENS_SMK_023_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 226
+Average Sentence Length : 18
+Function Word Count : 96
+Function word count to word count ratio : 0.424778761062
+
+====================================================================================================
+ENS_SMK_024_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 215
+Average Sentence Length : 23
+Function Word Count : 92
+Function word count to word count ratio : 0.427906976744
+
+====================================================================================================
+ENS_SMK_025_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 202
+Average Sentence Length : 25
+Function Word Count : 94
+Function word count to word count ratio : 0.465346534653
+
+====================================================================================================
+ENS_SMK_026_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 222
+Average Sentence Length : 24
+Function Word Count : 104
+Function word count to word count ratio : 0.468468468468
+
+====================================================================================================
+ENS_SMK_027_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 25
+Function Word Count : 98
+Function word count to word count ratio : 0.473429951691
+
+====================================================================================================
+ENS_SMK_028_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 233
+Average Sentence Length : 23
+Function Word Count : 98
+Function word count to word count ratio : 0.420600858369
+
+====================================================================================================
+ENS_SMK_029_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 221
+Average Sentence Length : 27
+Function Word Count : 95
+Function word count to word count ratio : 0.429864253394
+
+====================================================================================================
+ENS_SMK_030_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 23
+Function Word Count : 89
+Function word count to word count ratio : 0.415887850467
+
+====================================================================================================
+ENS_SMK_031_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 25
+Function Word Count : 89
+Function word count to word count ratio : 0.442786069652
+
+====================================================================================================
+ENS_SMK_032_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 210
+Average Sentence Length : 26
+Function Word Count : 99
+Function word count to word count ratio : 0.471428571429
+
+====================================================================================================
+ENS_SMK_033_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 205
+Average Sentence Length : 22
+Function Word Count : 93
+Function word count to word count ratio : 0.453658536585
+
+====================================================================================================
+ENS_SMK_034_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 200
+Average Sentence Length : 25
+Function Word Count : 79
+Function word count to word count ratio : 0.395
+
+====================================================================================================
+ENS_SMK_035_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 18
+Function Word Count : 96
+Function word count to word count ratio : 0.461538461538
+
+====================================================================================================
+ENS_SMK_036_XX_0.txt
+Grammar & Spelling : (1, 1)
+Word Count : 214
+Average Sentence Length : 17
+Function Word Count : 96
+Function word count to word count ratio : 0.448598130841
+
+====================================================================================================
+ENS_SMK_037_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 231
+Average Sentence Length : 19
+Function Word Count : 101
+Function word count to word count ratio : 0.437229437229
+
+====================================================================================================
+ENS_SMK_038_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 221
+Average Sentence Length : 27
+Function Word Count : 103
+Function word count to word count ratio : 0.466063348416
+
+====================================================================================================
+ENS_SMK_039_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 237
+Average Sentence Length : 23
+Function Word Count : 106
+Function word count to word count ratio : 0.447257383966
+
+====================================================================================================
+ENS_SMK_040_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 218
+Average Sentence Length : 21
+Function Word Count : 92
+Function word count to word count ratio : 0.422018348624
+
+====================================================================================================
+ENS_SMK_041_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 227
+Average Sentence Length : 15
+Function Word Count : 99
+Function word count to word count ratio : 0.436123348018
+
+====================================================================================================
+ENS_SMK_042_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 206
+Average Sentence Length : 18
+Function Word Count : 86
+Function word count to word count ratio : 0.417475728155
+
+====================================================================================================
+ENS_SMK_043_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 216
+Average Sentence Length : 19
+Function Word Count : 98
+Function word count to word count ratio : 0.453703703704
+
+====================================================================================================
+ENS_SMK_044_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 212
+Average Sentence Length : 21
+Function Word Count : 98
+Function word count to word count ratio : 0.462264150943
+
+====================================================================================================
+ENS_SMK_045_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 29
+Function Word Count : 95
+Function word count to word count ratio : 0.46568627451
+
+====================================================================================================
+ENS_SMK_046_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 30
+Function Word Count : 103
+Function word count to word count ratio : 0.476851851852
+
+====================================================================================================
+ENS_SMK_047_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 203
+Average Sentence Length : 20
+Function Word Count : 91
+Function word count to word count ratio : 0.448275862069
+
+====================================================================================================
+ENS_SMK_048_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 16
+Function Word Count : 73
+Function word count to word count ratio : 0.350961538462
+
+====================================================================================================
+ENS_SMK_049_XX_0.txt
+Grammar & Spelling : (1, 3)
+Word Count : 214
+Average Sentence Length : 21
+Function Word Count : 102
+Function word count to word count ratio : 0.476635514019
+
+====================================================================================================
+ENS_SMK_050_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 213
+Average Sentence Length : 30
+Function Word Count : 95
+Function word count to word count ratio : 0.446009389671
+
+====================================================================================================
+ENS_SMK_051_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 206
+Average Sentence Length : 20
+Function Word Count : 92
+Function word count to word count ratio : 0.446601941748
+
+====================================================================================================
+ENS_SMK_052_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 30
+Function Word Count : 110
+Function word count to word count ratio : 0.514018691589
+
+====================================================================================================
+ENS_SMK_053_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 11
+Function Word Count : 89
+Function word count to word count ratio : 0.429951690821
+
+====================================================================================================
+ENS_SMK_054_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 23
+Function Word Count : 104
+Function word count to word count ratio : 0.492890995261
+
+====================================================================================================
+ENS_SMK_055_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 227
+Average Sentence Length : 25
+Function Word Count : 102
+Function word count to word count ratio : 0.449339207048
+
+====================================================================================================
+ENS_SMK_056_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 206
+Average Sentence Length : 25
+Function Word Count : 85
+Function word count to word count ratio : 0.412621359223
+
+====================================================================================================
+ENS_SMK_057_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 209
+Average Sentence Length : 26
+Function Word Count : 95
+Function word count to word count ratio : 0.454545454545
+
+====================================================================================================
+ENS_SMK_058_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 212
+Average Sentence Length : 21
+Function Word Count : 89
+Function word count to word count ratio : 0.419811320755
+
+====================================================================================================
+ENS_SMK_059_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 206
+Average Sentence Length : 25
+Function Word Count : 93
+Function word count to word count ratio : 0.45145631068
+
+====================================================================================================
+ENS_SMK_060_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 203
+Average Sentence Length : 22
+Function Word Count : 102
+Function word count to word count ratio : 0.502463054187
+
+====================================================================================================
+ENS_SMK_061_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 198
+Average Sentence Length : 22
+Function Word Count : 88
+Function word count to word count ratio : 0.444444444444
+
+====================================================================================================
+ENS_SMK_062_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 200
+Average Sentence Length : 25
+Function Word Count : 94
+Function word count to word count ratio : 0.47
+
+====================================================================================================
+ENS_SMK_063_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 29
+Function Word Count : 104
+Function word count to word count ratio : 0.5
+
+====================================================================================================
+ENS_SMK_064_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 25
+Function Word Count : 96
+Function word count to word count ratio : 0.470588235294
+
+====================================================================================================
+ENS_SMK_065_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 16
+Function Word Count : 85
+Function word count to word count ratio : 0.422885572139
+
+====================================================================================================
+ENS_SMK_066_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 207
+Average Sentence Length : 25
+Function Word Count : 93
+Function word count to word count ratio : 0.449275362319
+
+====================================================================================================
+ENS_SMK_067_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 221
+Average Sentence Length : 20
+Function Word Count : 97
+Function word count to word count ratio : 0.438914027149
+
+====================================================================================================
+ENS_SMK_068_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 211
+Average Sentence Length : 23
+Function Word Count : 90
+Function word count to word count ratio : 0.42654028436
+
+====================================================================================================
+ENS_SMK_069_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 224
+Average Sentence Length : 22
+Function Word Count : 89
+Function word count to word count ratio : 0.397321428571
+
+====================================================================================================
+ENS_SMK_070_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 23
+Function Word Count : 92
+Function word count to word count ratio : 0.436018957346
+
+====================================================================================================
+ENS_SMK_071_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 219
+Average Sentence Length : 31
+Function Word Count : 103
+Function word count to word count ratio : 0.470319634703
+
+====================================================================================================
+ENS_SMK_072_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 247
+Average Sentence Length : 20
+Function Word Count : 112
+Function word count to word count ratio : 0.453441295547
+
+====================================================================================================
+ENS_SMK_073_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 217
+Average Sentence Length : 21
+Function Word Count : 101
+Function word count to word count ratio : 0.465437788018
+
+====================================================================================================
+ENS_SMK_074_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 210
+Average Sentence Length : 35
+Function Word Count : 95
+Function word count to word count ratio : 0.452380952381
+
+====================================================================================================
+ENS_SMK_075_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 214
+Average Sentence Length : 30
+Function Word Count : 102
+Function word count to word count ratio : 0.476635514019
+
+====================================================================================================
+ENS_SMK_076_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 217
+Average Sentence Length : 19
+Function Word Count : 101
+Function word count to word count ratio : 0.465437788018
+
+====================================================================================================
+ENS_SMK_077_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 237
+Average Sentence Length : 29
+Function Word Count : 110
+Function word count to word count ratio : 0.464135021097
+
+====================================================================================================
+ENS_SMK_078_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 228
+Average Sentence Length : 22
+Function Word Count : 100
+Function word count to word count ratio : 0.438596491228
+
+====================================================================================================
+ENS_SMK_079_XX_0.txt
+Grammar & Spelling : (1, 11)
+Word Count : 288
+Average Sentence Length : 19
+Function Word Count : 118
+Function word count to word count ratio : 0.409722222222
+
+====================================================================================================
+ENS_SMK_080_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 220
+Average Sentence Length : 18
+Function Word Count : 87
+Function word count to word count ratio : 0.395454545455
+
+====================================================================================================
+ENS_SMK_081_XX_0.txt
+Grammar & Spelling : (0, 11)
+Word Count : 292
+Average Sentence Length : 16
+Function Word Count : 121
+Function word count to word count ratio : 0.414383561644
+
+====================================================================================================
+ENS_SMK_082_XX_0.txt
+Grammar & Spelling : (1, 2)
+Word Count : 216
+Average Sentence Length : 19
+Function Word Count : 95
+Function word count to word count ratio : 0.439814814815
+
+====================================================================================================
+ENS_SMK_083_XX_0.txt
+Grammar & Spelling : (1, 2)
+Word Count : 262
+Average Sentence Length : 13
+Function Word Count : 81
+Function word count to word count ratio : 0.309160305344
+
+====================================================================================================
+ENS_SMK_084_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 217
+Average Sentence Length : 15
+Function Word Count : 86
+Function word count to word count ratio : 0.396313364055
+
+====================================================================================================
+ENS_SMK_085_XX_0.txt
+Grammar & Spelling : (1, 10)
+Word Count : 286
+Average Sentence Length : 19
+Function Word Count : 119
+Function word count to word count ratio : 0.416083916084
+
+====================================================================================================
+ENS_SMK_086_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 215
+Average Sentence Length : 13
+Function Word Count : 85
+Function word count to word count ratio : 0.395348837209
+
+====================================================================================================
+ENS_SMK_087_XX_0.txt
+Grammar & Spelling : (2, 2)
+Word Count : 204
+Average Sentence Length : 17
+Function Word Count : 80
+Function word count to word count ratio : 0.392156862745
+
+====================================================================================================
+ENS_SMK_088_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 223
+Average Sentence Length : 18
+Function Word Count : 96
+Function word count to word count ratio : 0.430493273543
+
+====================================================================================================
+ENS_SMK_089_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 243
+Average Sentence Length : 15
+Function Word Count : 86
+Function word count to word count ratio : 0.353909465021
+
+====================================================================================================
+ENS_SMK_090_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 265
+Average Sentence Length : 16
+Function Word Count : 99
+Function word count to word count ratio : 0.37358490566
+
+====================================================================================================
+ENS_SMK_091_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 206
+Average Sentence Length : 18
+Function Word Count : 79
+Function word count to word count ratio : 0.383495145631
+
+====================================================================================================
+ENS_SMK_092_XX_0.txt
+Grammar & Spelling : (0, 9)
+Word Count : 298
+Average Sentence Length : 18
+Function Word Count : 114
+Function word count to word count ratio : 0.38255033557
+
+====================================================================================================
+ENS_SMK_093_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 258
+Average Sentence Length : 18
+Function Word Count : 107
+Function word count to word count ratio : 0.414728682171
+
+====================================================================================================
+ENS_SMK_094_XX_0.txt
+Grammar & Spelling : (2, 0)
+Word Count : 248
+Average Sentence Length : 12
+Function Word Count : 97
+Function word count to word count ratio : 0.391129032258
+
+====================================================================================================
+ENS_SMK_095_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 216
+Average Sentence Length : 18
+Function Word Count : 77
+Function word count to word count ratio : 0.356481481481
+
+====================================================================================================
+ENS_SMK_096_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 241
+Average Sentence Length : 21
+Function Word Count : 99
+Function word count to word count ratio : 0.410788381743
+
+====================================================================================================
+ENS_SMK_097_XX_0.txt
+Grammar & Spelling : (0, 9)
+Word Count : 207
+Average Sentence Length : 10
+Function Word Count : 72
+Function word count to word count ratio : 0.347826086957
+
+====================================================================================================
+ENS_SMK_098_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 208
+Average Sentence Length : 18
+Function Word Count : 79
+Function word count to word count ratio : 0.379807692308
+
+====================================================================================================
+ENS_SMK_099_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 257
+Average Sentence Length : 16
+Function Word Count : 111
+Function word count to word count ratio : 0.431906614786
+
+====================================================================================================
+ENS_SMK_100_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 299
+Average Sentence Length : 24
+Function Word Count : 124
+Function word count to word count ratio : 0.414715719064
+
+====================================================================================================
+ENS_SMK_101_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 293
+Average Sentence Length : 14
+Function Word Count : 100
+Function word count to word count ratio : 0.341296928328
+
+====================================================================================================
+ENS_SMK_102_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 296
+Average Sentence Length : 12
+Function Word Count : 98
+Function word count to word count ratio : 0.331081081081
+
+====================================================================================================
+ENS_SMK_103_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 223
+Average Sentence Length : 18
+Function Word Count : 94
+Function word count to word count ratio : 0.421524663677
+
+====================================================================================================
+ENS_SMK_104_XX_0.txt
+Grammar & Spelling : (0, 10)
+Word Count : 275
+Average Sentence Length : 18
+Function Word Count : 94
+Function word count to word count ratio : 0.341818181818
+
+====================================================================================================
+ENS_SMK_105_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 17
+Function Word Count : 97
+Function word count to word count ratio : 0.464114832536
+
+====================================================================================================
+ENS_SMK_106_XX_0.txt
+Grammar & Spelling : (1, 10)
+Word Count : 223
+Average Sentence Length : 11
+Function Word Count : 69
+Function word count to word count ratio : 0.309417040359
+
+====================================================================================================
+ENS_SMK_107_XX_0.txt
+Grammar & Spelling : (2, 2)
+Word Count : 218
+Average Sentence Length : 24
+Function Word Count : 84
+Function word count to word count ratio : 0.385321100917
+
+====================================================================================================
+ENS_SMK_108_XX_0.txt
+Grammar & Spelling : (2, 4)
+Word Count : 248
+Average Sentence Length : 16
+Function Word Count : 95
+Function word count to word count ratio : 0.383064516129
+
+====================================================================================================
+ENS_SMK_109_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 244
+Average Sentence Length : 15
+Function Word Count : 85
+Function word count to word count ratio : 0.348360655738
+
+====================================================================================================
+ENS_SMK_110_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 255
+Average Sentence Length : 17
+Function Word Count : 98
+Function word count to word count ratio : 0.38431372549
+
+====================================================================================================
+ENS_SMK_111_XX_0.txt
+Grammar & Spelling : (0, 10)
+Word Count : 243
+Average Sentence Length : 17
+Function Word Count : 86
+Function word count to word count ratio : 0.353909465021
+
+====================================================================================================
+ENS_SMK_112_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 243
+Average Sentence Length : 18
+Function Word Count : 107
+Function word count to word count ratio : 0.440329218107
+
+====================================================================================================
+ENS_SMK_113_XX_0.txt
+Grammar & Spelling : (3, 0)
+Word Count : 204
+Average Sentence Length : 10
+Function Word Count : 85
+Function word count to word count ratio : 0.416666666667
+
+====================================================================================================
+ENS_SMK_114_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 11
+Function Word Count : 74
+Function word count to word count ratio : 0.36815920398
+
+====================================================================================================
+ENS_SMK_115_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 210
+Average Sentence Length : 23
+Function Word Count : 88
+Function word count to word count ratio : 0.419047619048
+
+====================================================================================================
+ENS_SMK_116_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 253
+Average Sentence Length : 21
+Function Word Count : 103
+Function word count to word count ratio : 0.407114624506
+
+====================================================================================================
+ENS_SMK_117_XX_0.txt
+Grammar & Spelling : (0, 9)
+Word Count : 278
+Average Sentence Length : 18
+Function Word Count : 105
+Function word count to word count ratio : 0.377697841727
+
+====================================================================================================
+ENS_SMK_118_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 223
+Average Sentence Length : 17
+Function Word Count : 82
+Function word count to word count ratio : 0.367713004484
+
+====================================================================================================
+ENS_SMK_119_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 227
+Average Sentence Length : 20
+Function Word Count : 89
+Function word count to word count ratio : 0.392070484581
+
+====================================================================================================
+ENS_SMK_120_XX_0.txt
+Grammar & Spelling : (0, 11)
+Word Count : 292
+Average Sentence Length : 29
+Function Word Count : 121
+Function word count to word count ratio : 0.414383561644
+
+====================================================================================================
+ENS_SMK_121_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 299
+Average Sentence Length : 17
+Function Word Count : 120
+Function word count to word count ratio : 0.401337792642
+
+====================================================================================================
+ENS_SMK_122_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 238
+Average Sentence Length : 14
+Function Word Count : 80
+Function word count to word count ratio : 0.336134453782
+
+====================================================================================================
+ENS_SMK_123_XX_0.txt
+Grammar & Spelling : (0, 6)
+Word Count : 319
+Average Sentence Length : 26
+Function Word Count : 117
+Function word count to word count ratio : 0.366771159875
+
+====================================================================================================
+ENS_SMK_124_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 231
+Average Sentence Length : 13
+Function Word Count : 88
+Function word count to word count ratio : 0.380952380952
+
+====================================================================================================
+ENS_SMK_125_XX_0.txt
+Grammar & Spelling : (0, 18)
+Word Count : 293
+Average Sentence Length : 15
+Function Word Count : 101
+Function word count to word count ratio : 0.344709897611
+
+====================================================================================================
+ENS_SMK_126_XX_0.txt
+Grammar & Spelling : (1, 9)
+Word Count : 304
+Average Sentence Length : 20
+Function Word Count : 106
+Function word count to word count ratio : 0.348684210526
+
+====================================================================================================
+ENS_SMK_127_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 315
+Average Sentence Length : 17
+Function Word Count : 124
+Function word count to word count ratio : 0.393650793651
+
+====================================================================================================
+ENS_SMK_128_XX_0.txt
+Grammar & Spelling : (0, 11)
+Word Count : 268
+Average Sentence Length : 19
+Function Word Count : 113
+Function word count to word count ratio : 0.421641791045
+
+====================================================================================================
+ENS_SMK_129_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 205
+Average Sentence Length : 18
+Function Word Count : 99
+Function word count to word count ratio : 0.482926829268
+
+====================================================================================================
+ENS_SMK_130_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 225
+Average Sentence Length : 20
+Function Word Count : 85
+Function word count to word count ratio : 0.377777777778
+
+====================================================================================================
+ENS_SMK_131_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 215
+Average Sentence Length : 19
+Function Word Count : 81
+Function word count to word count ratio : 0.376744186047
+
+====================================================================================================
+ENS_SMK_132_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 207
+Average Sentence Length : 25
+Function Word Count : 88
+Function word count to word count ratio : 0.425120772947
+
+====================================================================================================
+ENS_SMK_133_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 224
+Average Sentence Length : 24
+Function Word Count : 74
+Function word count to word count ratio : 0.330357142857
+
+====================================================================================================
+ENS_SMK_134_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 229
+Average Sentence Length : 22
+Function Word Count : 93
+Function word count to word count ratio : 0.406113537118
+
+====================================================================================================
+ENS_SMK_135_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 220
+Average Sentence Length : 22
+Function Word Count : 94
+Function word count to word count ratio : 0.427272727273
+
+====================================================================================================
+ENS_SMK_136_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 244
+Average Sentence Length : 20
+Function Word Count : 111
+Function word count to word count ratio : 0.454918032787
+
+====================================================================================================
+ENS_SMK_137_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 23
+Function Word Count : 83
+Function word count to word count ratio : 0.400966183575
+
+====================================================================================================
+ENS_SMK_138_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 226
+Average Sentence Length : 28
+Function Word Count : 96
+Function word count to word count ratio : 0.424778761062
+
+====================================================================================================
+ENS_SMK_139_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 215
+Average Sentence Length : 21
+Function Word Count : 99
+Function word count to word count ratio : 0.460465116279
+
+====================================================================================================
+ENS_SMK_140_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 200
+Average Sentence Length : 22
+Function Word Count : 83
+Function word count to word count ratio : 0.415
+
+====================================================================================================
+ENS_SMK_141_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 209
+Average Sentence Length : 23
+Function Word Count : 87
+Function word count to word count ratio : 0.416267942584
+
+====================================================================================================
+ENS_SMK_142_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 215
+Average Sentence Length : 21
+Function Word Count : 98
+Function word count to word count ratio : 0.455813953488
+
+====================================================================================================
+ENS_SMK_143_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 218
+Average Sentence Length : 24
+Function Word Count : 93
+Function word count to word count ratio : 0.426605504587
+
+====================================================================================================
+ENS_SMK_144_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 210
+Average Sentence Length : 21
+Function Word Count : 85
+Function word count to word count ratio : 0.404761904762
+
+====================================================================================================
+ENS_SMK_145_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 235
+Average Sentence Length : 23
+Function Word Count : 90
+Function word count to word count ratio : 0.382978723404
+
+====================================================================================================
+ENS_SMK_146_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 258
+Average Sentence Length : 21
+Function Word Count : 100
+Function word count to word count ratio : 0.387596899225
+
+====================================================================================================
+ENS_SMK_147_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 225
+Average Sentence Length : 13
+Function Word Count : 90
+Function word count to word count ratio : 0.4
+
+====================================================================================================
+ENS_SMK_148_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 238
+Average Sentence Length : 23
+Function Word Count : 120
+Function word count to word count ratio : 0.504201680672
+
+====================================================================================================
+ENS_SMK_149_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 239
+Average Sentence Length : 18
+Function Word Count : 91
+Function word count to word count ratio : 0.380753138075
+
+====================================================================================================
+ENS_SMK_150_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 25
+Function Word Count : 83
+Function word count to word count ratio : 0.412935323383
+
+====================================================================================================
+ENS_SMK_151_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 25
+Function Word Count : 84
+Function word count to word count ratio : 0.411764705882
+
+====================================================================================================
+ENS_SMK_152_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 202
+Average Sentence Length : 18
+Function Word Count : 87
+Function word count to word count ratio : 0.430693069307
+
+====================================================================================================
+ENS_SMK_153_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 23
+Function Word Count : 82
+Function word count to word count ratio : 0.394230769231
+
+====================================================================================================
+ENS_SMK_154_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 207
+Average Sentence Length : 23
+Function Word Count : 95
+Function word count to word count ratio : 0.458937198068
+
+====================================================================================================
+ENS_SMK_155_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 239
+Average Sentence Length : 21
+Function Word Count : 106
+Function word count to word count ratio : 0.443514644351
+
+====================================================================================================
+ENS_SMK_156_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 235
+Average Sentence Length : 23
+Function Word Count : 119
+Function word count to word count ratio : 0.506382978723
+
+====================================================================================================
+ENS_SMK_157_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 260
+Average Sentence Length : 28
+Function Word Count : 118
+Function word count to word count ratio : 0.453846153846
+
+====================================================================================================
+ENS_SMK_158_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 214
+Average Sentence Length : 19
+Function Word Count : 100
+Function word count to word count ratio : 0.467289719626
+
+====================================================================================================
+ENS_SMK_159_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 20
+Function Word Count : 79
+Function word count to word count ratio : 0.393034825871
+
+====================================================================================================
+ENS_SMK_160_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 214
+Average Sentence Length : 23
+Function Word Count : 94
+Function word count to word count ratio : 0.439252336449
+
+====================================================================================================
+ENS_SMK_161_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 211
+Average Sentence Length : 21
+Function Word Count : 103
+Function word count to word count ratio : 0.488151658768
+
+====================================================================================================
+ENS_SMK_162_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 202
+Average Sentence Length : 22
+Function Word Count : 91
+Function word count to word count ratio : 0.450495049505
+
+====================================================================================================
+ENS_SMK_163_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 22
+Function Word Count : 91
+Function word count to word count ratio : 0.452736318408
+
+====================================================================================================
+ENS_SMK_164_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 203
+Average Sentence Length : 22
+Function Word Count : 91
+Function word count to word count ratio : 0.448275862069
+
+====================================================================================================
+ENS_SMK_165_XX_0.txt
+Grammar & Spelling : (0, 7)
+Word Count : 213
+Average Sentence Length : 17
+Function Word Count : 94
+Function word count to word count ratio : 0.441314553991
+
+====================================================================================================
+ENS_SMK_166_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 211
+Average Sentence Length : 21
+Function Word Count : 89
+Function word count to word count ratio : 0.421800947867
+
+====================================================================================================
+ENS_SMK_167_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 228
+Average Sentence Length : 20
+Function Word Count : 92
+Function word count to word count ratio : 0.40350877193
+
+====================================================================================================
+ENS_SMK_168_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 200
+Average Sentence Length : 22
+Function Word Count : 97
+Function word count to word count ratio : 0.485
+
+====================================================================================================
+ENS_SMK_169_XX_0.txt
+Grammar & Spelling : (1, 0)
+Word Count : 203
+Average Sentence Length : 18
+Function Word Count : 87
+Function word count to word count ratio : 0.428571428571
+
+====================================================================================================
+ENS_SMK_170_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 206
+Average Sentence Length : 15
+Function Word Count : 75
+Function word count to word count ratio : 0.364077669903
+
+====================================================================================================
+ENS_SMK_171_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 201
+Average Sentence Length : 22
+Function Word Count : 85
+Function word count to word count ratio : 0.422885572139
+
+====================================================================================================
+ENS_SMK_172_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 216
+Average Sentence Length : 27
+Function Word Count : 93
+Function word count to word count ratio : 0.430555555556
+
+====================================================================================================
+ENS_SMK_173_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 21
+Function Word Count : 108
+Function word count to word count ratio : 0.5
+
+====================================================================================================
+ENS_SMK_174_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 209
+Average Sentence Length : 20
+Function Word Count : 95
+Function word count to word count ratio : 0.454545454545
+
+====================================================================================================
+ENS_SMK_175_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 216
+Average Sentence Length : 18
+Function Word Count : 84
+Function word count to word count ratio : 0.388888888889
+
+====================================================================================================
+ENS_SMK_176_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 203
+Average Sentence Length : 20
+Function Word Count : 90
+Function word count to word count ratio : 0.443349753695
+
+====================================================================================================
+ENS_SMK_177_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 206
+Average Sentence Length : 20
+Function Word Count : 92
+Function word count to word count ratio : 0.446601941748
+
+====================================================================================================
+ENS_SMK_178_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 204
+Average Sentence Length : 17
+Function Word Count : 92
+Function word count to word count ratio : 0.450980392157
+
+====================================================================================================
+ENS_SMK_179_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 205
+Average Sentence Length : 14
+Function Word Count : 92
+Function word count to word count ratio : 0.448780487805
+
+====================================================================================================
+ENS_SMK_180_XX_0.txt
+Grammar & Spelling : (1, 1)
+Word Count : 209
+Average Sentence Length : 26
+Function Word Count : 87
+Function word count to word count ratio : 0.416267942584
+
+====================================================================================================
+ENS_SMK_181_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 20
+Function Word Count : 92
+Function word count to word count ratio : 0.442307692308
+
+====================================================================================================
+ENS_SMK_182_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 211
+Average Sentence Length : 30
+Function Word Count : 96
+Function word count to word count ratio : 0.454976303318
+
+====================================================================================================
+ENS_SMK_183_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 234
+Average Sentence Length : 26
+Function Word Count : 107
+Function word count to word count ratio : 0.457264957265
+
+====================================================================================================
+ENS_SMK_184_XX_0.txt
+Grammar & Spelling : (0, 2)
+Word Count : 202
+Average Sentence Length : 22
+Function Word Count : 97
+Function word count to word count ratio : 0.480198019802
+
+====================================================================================================
+ENS_SMK_185_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 210
+Average Sentence Length : 23
+Function Word Count : 91
+Function word count to word count ratio : 0.433333333333
+
+====================================================================================================
+ENS_SMK_186_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 208
+Average Sentence Length : 23
+Function Word Count : 90
+Function word count to word count ratio : 0.432692307692
+
+====================================================================================================
+ENS_SMK_187_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 201
+Average Sentence Length : 20
+Function Word Count : 84
+Function word count to word count ratio : 0.417910447761
+
+====================================================================================================
+ENS_SMK_188_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 204
+Average Sentence Length : 25
+Function Word Count : 98
+Function word count to word count ratio : 0.480392156863
+
+====================================================================================================
+ENS_SMK_189_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 203
+Average Sentence Length : 20
+Function Word Count : 87
+Function word count to word count ratio : 0.428571428571
+
+====================================================================================================
+ENS_SMK_190_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 229
+Average Sentence Length : 22
+Function Word Count : 96
+Function word count to word count ratio : 0.419213973799
+
+====================================================================================================
+ENS_SMK_191_XX_0.txt
+Grammar & Spelling : (0, 4)
+Word Count : 202
+Average Sentence Length : 22
+Function Word Count : 88
+Function word count to word count ratio : 0.435643564356
+
+====================================================================================================
+ENS_SMK_192_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 200
+Average Sentence Length : 22
+Function Word Count : 76
+Function word count to word count ratio : 0.38
+
+====================================================================================================
+ENS_SMK_193_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 209
+Average Sentence Length : 29
+Function Word Count : 99
+Function word count to word count ratio : 0.473684210526
+
+====================================================================================================
+ENS_SMK_194_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 203
+Average Sentence Length : 20
+Function Word Count : 87
+Function word count to word count ratio : 0.428571428571
+
+====================================================================================================
+ENS_SMK_195_XX_0.txt
+Grammar & Spelling : (0, 1)
+Word Count : 214
+Average Sentence Length : 26
+Function Word Count : 92
+Function word count to word count ratio : 0.429906542056
+
+====================================================================================================
+ENS_SMK_196_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 200
+Average Sentence Length : 28
+Function Word Count : 89
+Function word count to word count ratio : 0.445
+
+====================================================================================================
+ENS_SMK_197_XX_0.txt
+Grammar & Spelling : (0, 3)
+Word Count : 204
+Average Sentence Length : 22
+Function Word Count : 85
+Function word count to word count ratio : 0.416666666667
+
+====================================================================================================
+ENS_SMK_198_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 222
+Average Sentence Length : 31
+Function Word Count : 102
+Function word count to word count ratio : 0.459459459459
+
+====================================================================================================
+ENS_SMK_199_XX_0.txt
+Grammar & Spelling : (0, 0)
+Word Count : 216
+Average Sentence Length : 24
+Function Word Count : 88
+Function word count to word count ratio : 0.407407407407
+
+====================================================================================================
+ENS_SMK_200_XX_0.txt
+Grammar & Spelling : (0, 5)
+Word Count : 218
+Average Sentence Length : 24
+Function Word Count : 94
+Function word count to word count ratio : 0.43119266055
+
+====================================================================================================

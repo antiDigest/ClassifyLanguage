@@ -23,6 +23,22 @@ Language Classifier
 
 ***Expanding Circle
 
+
+##What each file name means:
+
+|S/W 	|Country| 	Topic/ Trial| 	Serial| 	CEFR|\
+|:--------------:|:---------:|:-----------------:|:-------------:|
+|||||For NNS|
+|||TWN 	PTJ: part-time job||A2_0: A2|
+||W: Writing 	CHN, ENS, HKG, IDN, JPN,|SMK: non-smoking||B1_1: B1 Lower|
+|S: Speech|KOR, PAK, PHL, SIN, THA,|0 Essay|001-999|B1_2: B1 Upper|
+|||1 Speech (Trial 1)||B2_0: B2 +|
+|||2 Speech (Trial 2)||For NS|
+|||||XX_1 Students|
+|||||XX_2 Teachers|
+|||||XX_3 Others|
+
+
 ###Done :
 
 1.	Average Sentence Length
@@ -43,4 +59,4 @@ Language Classifier
 
 2.	Sentence Chunk Boundary detector
 
-3.	Give Aly the database
+3.	Read documents and detect distinct features
