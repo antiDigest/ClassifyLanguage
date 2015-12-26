@@ -42,14 +42,16 @@ Language Classifier
 ##What terms in XLSX file mean:
 
 ###About essays or speeches
-Code| File code
+|Term|Meaning|
 |:----:|:-------:|
+Code| File code
 PTJ (wds)| The number of words in one essay or speech
 SMK (wds)|The number of words in one essay or speech
 
 ###About participants' background
-Country| Participant's country or area
+|Term|Meaning|
 |:----:|:-------:|
+Country| Participant's country or area
 Sex | Participant's sex
 Age| Participant's age
 Grade| Participant's school grade (1, 2, 3, 4|)
@@ -57,22 +59,25 @@ Major (Occupation)| In case of students, their major at colleges; in case of emp
 Academic Genres| Only for students: Humanities, Social Sciences, Science and Technology, and Life Science
 
 ###About participants' proficiency
-Proficiency Test| Test name such as TOEIC or TOEFL
+|Term|Meaning|
 |:----:|:-------:|
+Proficiency Test| Test name such as TOEIC or TOEFL
 Score| Score in the test above
 VST| Score in the vocabulary size test (full mark is 50) This test measures participants' L2 lexical knowledge with a ceiling of 5,000 words.
 CEFR| CEFR levels: A2, B1_1, B1_2, B2+. Estimated from participants' scores in the proficiency test or in the vocabulary size test
 
 ###About participants' motivation
-INTM| Integrative Motivation Score
+|Term|Meaning|
 |:----:|:-------:|
+INTM| Integrative Motivation Score
 INSM| Instrumental Motivation Score
 INTM+INSM| Strength of Motivation
 INTM-INSM| Integrative Motivation Orientation Score
 
 ###About participants' L2 learning experiences
-Primary| How much a participant studies English in their primary school days (1 to 6 points)
+|Term|Meaning|
 |:----:|:-------:|
+Primary| How much a participant studies English in their primary school days (1 to 6 points)
 Secondary|How much a participant studies English in their secondary school days (1 to 6 points)
 College|How much a participant studies English in their college days (1 to 6 points)
 Inschool| How much a participant studies English in class (1 to 6 points)
