@@ -26,8 +26,8 @@ Language Classifier
 
 ##What each file name means:
 
-|S/W 	|Country| 	Topic/ Trial| 	Serial| 	CEFR|\
-|:--------------:|:---------:|:-----------------:|:-------------:|
+|S/W 	|Country| 	Topic/ Trial| 	Serial| 	CEFR|
+|:--------------:|:---------:|:-----------------:|:-------------:|:-------------:|
 |||||For NNS|
 |||TWN 	PTJ: part-time job||A2_0: A2|
 ||W: Writing 	CHN, ENS, HKG, IDN, JPN,|SMK: non-smoking||B1_1: B1 Lower|
