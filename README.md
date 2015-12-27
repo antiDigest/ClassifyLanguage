@@ -108,8 +108,4 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 
 ###TODO:
 
-1.	Brill Tag
-
-2.	Sentence Chunk Boundary detector
-
-3.	Read documents and detect distinct features
+1.	Read documents and detect distinct features
