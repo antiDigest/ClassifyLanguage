@@ -109,3 +109,13 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 ###TODO:
 
 1.	Read documents and detect distinct features
+
+2.	<strong>Parallelism</strong> is a similarity of form in words, phrases, or clauses that have similar functions in a sentence or a paragraph. Faulty parallelism is the lack of parallel structure—it creates sentences without a sense of balance. Readers expect parallel word structures especially when there is some underlying parallelism of meaning. Below are some guidelines for when to use parallelism:
+
+	1. Items in Lists: Words, phrases, or clauses in a list or series should all have the same grammatical structure. (Ex: Erin likes surfing the net, working out, and visiting her family.)
+
+	2. Items Joined by Coordinating Conjunctions: Words or phrases joined by coordinating conjunctions should have the same structure. (Ex: Chocolate and peanut butter taste great together.)
+
+	3. Elements joined by correlative conjunctions, such as "either . . . or" and not "only . . .but also," should be parallel. (Ex: We could go fishing or go bicycling.)
+
+	4. Two elements that are compared or contrasted should be expressed in parallel structures. (Ex: I like blue cars as opposed to red cars.) 
