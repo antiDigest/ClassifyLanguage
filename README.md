@@ -120,9 +120,7 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 
 	4. Two elements that are compared or contrasted should be expressed in parallel structures. (Ex: I like blue cars as opposed to red cars.) 
 
-3.	Wordiness is taking more words than necessary to make your point. It may take the form of redundant expressions or phrases. To be sure, longer expressions may be appropriate at times as a matter of style or to avoid ambiguity. But some business writers clutter their sentences and paragraphs with words, phrases, and expressions that needlessly distract the reader.
-
-Consistent elimination of wordiness results in a stronger, more concise writing style that is easier to read and provides fewer opportunities for misinterpretation. In contrast, a wordy style makes reading laborious and, thus, encourages skimming and leads to inattention. Do you wish the reader to carefully consider your message? If so, reduce wordiness to the extent possible. The examples below provide guidance for avoiding general forms of wordiness.
+3.	Wordiness is taking more words than necessary to make your point. It may take the form of redundant expressions or phrases. To be sure, longer expressions may be appropriate at times as a matter of style or to avoid ambiguity. But some business writers clutter their sentences and paragraphs with words, phrases, and expressions that needlessly distract the reader. Consistent elimination of wordiness results in a stronger, more concise writing style that is easier to read and provides fewer opportunities for misinterpretation. In contrast, a wordy style makes reading laborious and, thus, encourages skimming and leads to inattention. Do you wish the reader to carefully consider your message? If so, reduce wordiness to the extent possible. The examples below provide guidance for avoiding general forms of wordiness.
 
 4.	Passive and active voice usage
 
@@ -132,6 +130,6 @@ Consistent elimination of wordiness results in a stronger, more concise writing 
 
 7.	Punctuation guidelines. Complex and compound sentence punctuation
 
-8.	An important role in English grammar is played by determiners – words or phrases that precede a noun or noun phrase and serve to express its reference in the context. The most common of these are the definite and indefinite articles, the and a(n). Other determiners in English include demonstratives such as this and that, possessives such as my and the boy's, and quantifiers such as all, many and three.
+8.	An important role in English grammar is played by determiners – words or phrases that precede a noun or noun phrase and serve to express its reference in the context. The most common of these are the definite and indefinite articles, the and a(n). Other determiners in English include demonstratives such as this and that, possessives such as my and the boy's, and quantifiers such as all, many and three. In many contexts the presence of some determiner is required in order to form a complete noun phrase. However, in some cases complete noun phrases are formed without any determiner (sometimes referred to as "zero determiner" or "zero article"), as in the sentence Apples are fruit. Determiners can also be used in certain combinations, as in my many friends or all the chairs.
 
-In many contexts the presence of some determiner is required in order to form a complete noun phrase. However, in some cases complete noun phrases are formed without any determiner (sometimes referred to as "zero determiner" or "zero article"), as in the sentence Apples are fruit. Determiners can also be used in certain combinations, as in my many friends or all the chairs.
+9.	Study Grammar and common grammatical mistakes. Makes machines on those and your job is done.
