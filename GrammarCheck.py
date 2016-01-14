@@ -27,3 +27,5 @@ def SpellCheck(filename):
 	app.Quit(wdDoNotSaveChanges)
 
 	return errors
+
+def parallelism(filename):
