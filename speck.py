@@ -1,21 +1,22 @@
 from stemming.porter2 import stem
 from textblob import TextBlob
 from MinEditDist import dist
-import sys
+import sys,re
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 file1 = open('icnale_201302/Categorized/CHN/A20  (N=50)/CHN_PTJ_021_A2_0.txt','r')
 xyz = file1.read().decode("utf-8-sig")
-mat = xyz.split()
+words = re.split('[\s?\.!,]+',xyz)
 
 def check_word(var):
 	a = TextBlob(var)
 	new = a.correct()
 
 	if var == new:
-		print a,":",
-		print 'kuch to galat h'
+		print var,'Added to dictionary'
+		with open('bigger.txt','a') as w:
+			w.write(var+'\n')
 	else:
 		x = var
 		y = new
@@ -30,32 +31,15 @@ def check_spelling(var):
 
 def check(var):
 
-	for char in var:
-		if char == ',':
-			a = var.replace(',','')
-			afs = stem(a)
-			flag = check_spelling(afs.strip())
-		elif char == '.':
-			b = var.replace('.','')
-			afs = stem(b)
-			flag = check_spelling(afs.strip())
-		else:
-			afs = stem(var)
-			flag = check_spelling(afs.strip())
+	flag = check_spelling(var.strip())
+	
 	if flag == -1:
 		check_word(var)
 
-for word in mat:
-	for char in word:
-		if char == ',':
-			a = word.replace(',','')
-			flag = check_spelling(a.strip())
-		elif char == '.':
-			b = word.replace('.','')
-			flag = check_spelling(b.strip())
-		else:
-			flag = check_spelling(word.strip())
-
+for word in words:
+	
+	flag = check_spelling(word.strip())
+		
 	if flag == -1:
 		check(word)
 

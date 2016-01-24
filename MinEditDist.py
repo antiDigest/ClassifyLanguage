@@ -35,10 +35,5 @@ def dist(x,y):
 	m=len(y)
 
 	k=MinDist(n, m, mind, x,y)
-
-	# for i in xrange(n+1):
-		# for j in xrange(m+1):
-			# print mind[i,j],
-		# print '\n'
 	
-	# print 'Minimum Edit Distance :',k 
+	return k 
