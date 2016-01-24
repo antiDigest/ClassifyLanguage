@@ -1,6 +1,6 @@
 from stemming.porter2 import stem
 from textblob import TextBlob
-from MinEditDist import main
+from MinEditDist import dist
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -19,7 +19,7 @@ def check_word(var):
 	else:
 		x = var
 		y = new
-		print 'MinEditDist = {} for {} and {}'.format(main(x,y),x,y)
+		print 'MinEditDist = {%s} for {%s} and {%s}' % (dist(x,y),x,y)
 
 def check_spelling(var):
 	with open("bigger.txt") as myfile:

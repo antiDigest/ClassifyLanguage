@@ -1,16 +1,11 @@
 import numpy as np
 
-x = 'intention'
-y = 'execution'
-
-mind = np.ndarray(shape=(len(x)+1,len(y)+1),dtype=int)
-
 def min(a, b, c):
 	m = a if a < b else b
 	m = m if m < c else c
 	return m
 
-def MinDist(n, m):
+def MinDist(n, m, mind, x,y):
 	for i in xrange(m+1):
 		mind[0,i] = i
 
@@ -32,20 +27,18 @@ def MinDist(n, m):
 
 	return mind[n,m]
 
-def main(x,y):
+def dist(x,y):
+
+	mind = np.ndarray(shape=(len(x)+1,len(y)+1),dtype=int)
 
 	n=len(x)
 	m=len(y)
 
-	k=MinDist(n, m)
+	k=MinDist(n, m, mind, x,y)
 
 	# for i in xrange(n+1):
 		# for j in xrange(m+1):
 			# print mind[i,j],
 		# print '\n'
 	
-	print 'Minimum Edit Distance :',k 
-
-
-if __name__ == '__main__':
-	main(x,y)
+	# print 'Minimum Edit Distance :',k 
