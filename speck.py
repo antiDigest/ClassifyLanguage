@@ -21,7 +21,13 @@ def check_word(var):
                 k = dist(x,y)
                 if k == 1 or k==2:
                     nearlist += [y]
-        print nearlist
+                else:
+                    ind =  words.index(x)
+        # print nearlist
+        print "Current word : ",words[ind]
+        print "Previous Word : ",words[ind-1]
+        print "Next Word : ",words[ind+1]
+
     else:
         x = var
         y = new
@@ -49,6 +55,7 @@ def check(var):
 def main():
     file1 = open('icnale_201302/Categorized/CHN/A20  (N=50)/CHN_PTJ_021_A2_0.txt', 'r')
     xyz = file1.read().decode("utf-8-sig")
+    global words
     words = re.split('[\s?\.!,:; ]+', xyz)[:-1]
 
     for word in words:
