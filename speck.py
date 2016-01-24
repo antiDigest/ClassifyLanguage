@@ -12,15 +12,16 @@ def check_word(var):
     new = a.correct()
     
     if var == new:
-        print "Word = ",var
+        print "Word = '"+var+"'"
         x = var 
+        nearlist = []
         with open("bigger.txt") as myfile:
-	        for line in myfile:
-	            y= line.strip()
-	            k = dist(x,y)
-	            if k == 1 or k == 2:
-	            	print y
-
+            for line in myfile:
+                y= line.strip()
+                k = dist(x,y)
+                if k == 1 or k==2:
+                    nearlist += [y]
+        print nearlist
     else:
         x = var
         y = new
@@ -41,14 +42,14 @@ def check(var):
     flag = check_spelling(afs.strip())
 
     if flag == -1:
-        if var is not None or var is not ' ':
-            check_word(var)
+        # if var is not None or var is not ' ':
+        check_word(var)
 
 
 def main():
-    file1 = open('file1.txt', 'r')
+    file1 = open('icnale_201302/Categorized/CHN/A20  (N=50)/CHN_PTJ_021_A2_0.txt', 'r')
     xyz = file1.read().decode("utf-8-sig")
-    words = re.split('[\s?\.!,:;]+', xyz)
+    words = re.split('[\s?\.!,:; ]+', xyz)[:-1]
 
     for word in words:
 
