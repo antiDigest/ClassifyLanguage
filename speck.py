@@ -7,7 +7,7 @@ sys.setdefaultencoding('utf-8')
 
 file1 = open('icnale_201302/Categorized/CHN/A20  (N=50)/CHN_PTJ_021_A2_0.txt','r')
 xyz = file1.read().decode("utf-8-sig")
-words = re.split('[\s?\.!,]+',xyz)
+words = re.split('[\s?\.!,:;]+',xyz)
 
 def check_word(var):
 	a = TextBlob(var)
@@ -31,7 +31,8 @@ def check_spelling(var):
 
 def check(var):
 
-	flag = check_spelling(var.strip())
+	afs = stem(var)
+	flag = check_spelling(afs.strip())
 	
 	if flag == -1:
 		check_word(var)
