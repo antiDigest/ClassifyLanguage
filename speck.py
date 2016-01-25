@@ -23,7 +23,6 @@ def check_word(var):
                     nearlist += [y]
                 else:
                     ind =  words.index(x)
-        # print nearlist
         print "Current word : ",words[ind]
         print "Previous Word : ",words[ind-1]
         print "Next Word : ",words[ind+1]

@@ -5,7 +5,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-# def BrillTag(filename):
+# We need to be able to use this to extract all the n-grams from the text, n=1,2,3
+# We also need to get a general n-grams set, n=1,2,3
 
 def posgrams(filename):
 	with open(filename,'r') as f:
