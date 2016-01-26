@@ -5,6 +5,19 @@ import sys
 import re
 reload(sys)
 sys.setdefaultencoding('utf-8')
+import nltk.data
+
+def find_sentence(var):
+    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    fp = open("file1.txt")
+    data = fp.read().decode("utf-8-sig")
+    sentence = tokenizer.tokenize(data)
+    for sent in sentence:
+        a = sent.split()
+        for word in a:
+            if var == word:
+                return sent
+    return -1
 
 
 def check_word(var):
@@ -26,6 +39,9 @@ def check_word(var):
         print "Current word : ",words[ind]
         print "Previous Word : ",words[ind-1]
         print "Next Word : ",words[ind+1]
+
+        sent = find_sentence(var)
+        print sent
 
     else:
         x = var
@@ -52,7 +68,7 @@ def check(var):
 
 
 def main():
-    file1 = open('icnale_201302/Categorized/CHN/A20  (N=50)/CHN_PTJ_021_A2_0.txt', 'r')
+    file1 = open('file1.txt', 'r')
     xyz = file1.read().decode("utf-8-sig")
     global words
     words = re.split('[\s?\.!,:; ]+', xyz)[:-1]
@@ -66,3 +82,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # find_sentence()
