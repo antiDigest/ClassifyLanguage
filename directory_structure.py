@@ -70,17 +70,5 @@ def move():
 	return len(k), len(k1),len(k2),len(k3)
 
 if __name__ == "__main__":
-	print move()
-	# main()
-	# ENS()
-	# HKG()
-	# PAK()
-	# PHL()
-	# SIN()
-	# CHN()
-	# IDN()
-	# JPN()
-	# KOR()
-	# THA()
-	# TWN()
-# remove()
+	move()
+	
