@@ -1,39 +1,33 @@
 import re
 
-with open('aux/EnglishAuxiliaryVerbs.txt','r') as f:
-	lines = f.read().split('\n')
-	auxverbs = [line for line in lines if not "//" in line] 
+def getitems():
+	with open('aux/EnglishAuxiliaryVerbs.txt','r') as f:
+		lines = f.read().split('\r\n')
+		auxverbs = [line for line in lines if not "//" in line] 
 
-with open('aux/EnglishConjunctions.txt','r') as f:
-	lines = f.read().split('\n')
-	conjunctions = [line for line in lines if not "//" in line] 
+	with open('aux/EnglishConjunctions.txt','r') as f:
+		lines = f.read().split('\r\n')
+		conjunctions = [line for line in lines if not "//" in line] 
 
-with open('aux/EnglishDeterminers.txt','r') as f:
-	lines = f.read().split('\n')
-	determiners = [line for line in lines if not "//" in line] 
+	with open('aux/EnglishDeterminers.txt','r') as f:
+		lines = f.read().split('\r\n')
+		determiners = [line for line in lines if not "//" in line] 
 
-with open('aux/EnglishPrepositions.txt','r') as f:
-	lines = f.read().split('\n')
-	prepositions = [line for line in lines if not "//" in line] 
+	with open('aux/EnglishPrepositions.txt','r') as f:
+		lines = f.read().split('\r\n')
+		prepositions = [line for line in lines if not "//" in line] 
 
-with open('aux/EnglishPronouns.txt','r') as f:
-	lines = f.read().split('\n')
-	pronouns = [line for line in lines if not "//" in line] 
+	with open('aux/EnglishPronouns.txt','r') as f:
+		lines = f.read().split('\r\n')
+		pronouns = [line for line in lines if not "//" in line] 
 
-with open('aux/EnglishQuantifiers.txt','r') as f:
-	lines = f.read().split('\n')
-	quantifiers = [line for line in lines if not "//" in line] 
+	with open('aux/EnglishQuantifiers.txt','r') as f:
+		lines = f.read().split('\r\n')
+		quantifiers = [line for line in lines if not "//" in line] 
 
-allwords = auxverbs + conjunctions + determiners + prepositions + pronouns + quantifiers
-# print allwords
+	allwords = auxverbs + conjunctions + determiners + prepositions + pronouns + quantifiers
 
-def paragraphs(filename):
-	with open(filename,'r') as f:
-		fl = f.read()
-	# words = len(fl.split(' '))
-	sen = len(re.split(r'\n\n', fl))
-	return (sen)
-
+	return allwords
 
 def SentenceLength(text):
 	sen = len(re.split(r'[\.!?]+', text))
@@ -45,29 +39,16 @@ def WordCount(text):
 	return len(re.split('[\s?\.!,:; ]+', text)[:-1])
 
 def FunctionWordCount(text):
-	# with open(filename,'r') as f:
+	
 	filewords = re.split('[\s?\.!,:; ]+', text)[:-1]
-	auxcount = 0
-	concount = 0
-	detcount = 0
-	prepcount = 0
-	procount = 0
-	quantcount = 0
-	for i in filewords:
-		if i in auxverbs:
-			auxcount += 1
-		elif i in conjunctions:
-			concount += 1
-		elif i in determiners:
-			detcount += 1
-		elif i in prepositions:
-			prepcount += 1
-		elif i in pronouns:
-			procount += 1
-		elif i in quantifiers:
-			quantcount += 1
+	count = 0
 
-		count = auxcount + concount + detcount + prepcount + procount + quantcount
+	allwords = getitems()
+	# print allwords
+
+	for i in filewords:
+		if i in allwords:
+			count += 1
 
 	return count
 
