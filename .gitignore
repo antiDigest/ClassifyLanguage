@@ -1,3 +1,4 @@
 icnale_201302
 *.pyc
-Outputs
+train.csv
+test.csv
