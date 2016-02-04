@@ -84,7 +84,7 @@ def create_train():
 				RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB = parse(text)
 			data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
 							RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
-							WordCount(text),FunctionWordCount(text),count_errors(text),Sentiment(text),Polarity(text),1]
+							WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),Polarity(text),1]
 			
 		else:
 			myfile = open(f,'r')
@@ -93,7 +93,7 @@ def create_train():
 				RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB = parse(text)
 			data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
 							RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
-							WordCount(text),FunctionWordCount(text),count_errors(text),Sentiment(text),Polarity(text),2]
+							WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),Polarity(text),2]
 
 		test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
 		end = time.time()
