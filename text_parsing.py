@@ -3,10 +3,6 @@ from nltk.tag import pos_tag
 
 def parse(text):
 
-# file = open("file1.txt")
-
-# a = file.read().decode('utf-8-sig')
-
     CC = CD = DT = EX = FW = IN = JJ = JJR = JJS = LS = MD = NN = NNS = NNP = NNPS = PDT = POS = PRP = PRPD = \
     RB = RBR = RBS = RP = SYM = TO = UH = VB = VBD = VBG = VBN = VBP = VBZ = WDT = WP = WPD = WRB = 0
 
