@@ -1,4 +1,4 @@
 icnale_201302
 *.pyc
-train.csv
-test.csv
+train*.csv
+test*.csv

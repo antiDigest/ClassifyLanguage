@@ -32,19 +32,19 @@ def create_train():
 								WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),\
 								Polarity(text),cont]
 				
-			df = df.append(pd.Series(data, index=header), ignore_index=True)
-			end = time.time()
+				df = df.append(pd.Series(data, index=header), ignore_index=True)
+				end = time.time()
 
-			if end-start > 60:
-				print df
-				start =time.time()
+				if end-start > 60:
+					print df
+					start =time.time()
 
-	df.to_csv('Outputs/train.csv',header=True,index=False)
+	df.to_csv('Outputs/train_all.csv',header=True,index=False)
 
 	test_df = pd.DataFrame(columns=header)
 
 	for cont in var:
-		for f in glob.glob("icnale_201302/Main/TRAIN/*.txt"):
+		for f in glob.glob("icnale_201302/Main/TEST/*.txt"):
 			if cont in f:
 				myfile = open(f,'r')
 				text = myfile.read()
@@ -54,15 +54,15 @@ def create_train():
 								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
 								WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),\
 								Polarity(text),cont]
-			test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
-			end = time.time()
+				test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
+				end = time.time()
 
-			if end-start > 60:
-				print test_df
-				start =time.time()
+				if end-start > 60:
+					print test_df
+					start =time.time()
 
 	for cont in var:
-		for f in glob.glob("icnale_201302/Main/TRAIN/*.txt"):
+		for f in glob.glob("icnale_201302/Main/DEV/*.txt"):
 			if cont in f:
 				myfile = open(f,'r')
 				text = myfile.read()
@@ -72,14 +72,14 @@ def create_train():
 								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
 								WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),\
 								Polarity(text),cont]
-			test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
-			end = time.time()
+				test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
+				end = time.time()
 
-			if end-start > 60:
-				print test_df
-				start =time.time()
+				if end-start > 60:
+					print test_df
+					start =time.time()
 
-	test_df.to_csv('Outputs/test.csv',header=True,index=False)
+	test_df.to_csv('Outputs/test_all.csv',header=True,index=False)
 
 if __name__ == "__main__":
 	create_train()

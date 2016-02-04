@@ -138,3 +138,14 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 #Requirements:
 
 1.	Install nltk, textblob, sklearn, pandas
+
+
+#DONE:
+	
+*	The train and test data are in csv files !
+
+*	The train and test set run on Linear Regression, Multilayer Perceptron, Decision Trees, Additive Regression(ZeroR), Decision Table.
+
+*	Need to know how well was my feature selection
+
+*	Discuss with Tanvir Sir
