@@ -12,11 +12,16 @@ import time
 
 var = ['ENS','HKG','PAK','PHL','SIN','CHN','IDN','JPN','KOR','THA','TWN']
 
-def create_train():
+def create():
 
 	start = time.time()
 
-	header = ['CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN','NNS','NNP','NNPS','PDT','POS','PRP','PRPD','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT','WP','WPD','WRB','SentenceLength','WordCount','FunctionWordCount','count_errors','Sentiment','Polarity','Result']
+	header = ['CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN','NNS','NNP','NNPS','PDT',\
+	'POS','PRP','PRPD','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT',\
+	'WP','WPD','WRB','past tense','present tense','Plural','Singular','SentenceLength','WordCount',\
+	'FunctionWordCount',\
+	'count_errors','Sentiment',\
+	'Polarity','Result']
 
 	df = pd.DataFrame(columns=header)
 
@@ -26,12 +31,15 @@ def create_train():
 				myfile = open(f,'r')
 				text = myfile.read()
 				CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB = parse(text)
+					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,\
+					singular = parse(text)
 				data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
-								WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),\
+								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,\
+								plural,singular,SentenceLength(text),\
+								WordCount(text),FunctionWordCount(text),count_errors(text),\
+								sentiment(text),\
 								Polarity(text),cont]
-				
+
 				df = df.append(pd.Series(data, index=header), ignore_index=True)
 				end = time.time()
 
@@ -49,10 +57,13 @@ def create_train():
 				myfile = open(f,'r')
 				text = myfile.read()
 				CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB = parse(text)
+					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,\
+					singular = parse(text)
 				data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
-								WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),\
+								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,\
+								plural,singular,SentenceLength(text),\
+								WordCount(text),FunctionWordCount(text),count_errors(text),\
+								sentiment(text),\
 								Polarity(text),cont]
 				test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
 				end = time.time()
@@ -67,10 +78,13 @@ def create_train():
 				myfile = open(f,'r')
 				text = myfile.read()
 				CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB = parse(text)
+					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,\
+					singular = parse(text)
 				data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,SentenceLength(text),\
-								WordCount(text),FunctionWordCount(text),count_errors(text),sentiment(text),\
+								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,\
+								plural,singular,SentenceLength(text),\
+								WordCount(text),FunctionWordCount(text),count_errors(text),\
+								sentiment(text),\
 								Polarity(text),cont]
 				test_df = test_df.append(pd.Series(data, index=header), ignore_index=True)
 				end = time.time()
@@ -82,4 +96,4 @@ def create_train():
 	test_df.to_csv('Outputs/test_all.csv',header=True,index=False)
 
 if __name__ == "__main__":
-	create_train()
+	create

@@ -82,7 +82,12 @@ def parse(text):
             WPD = WPD + 1
         if word[1] == 'WRB':
             WRB = WRB + 1
-    
-    return CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,\
-    NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB
+
+    past = VBN + VBD
+    present = VBG + VBP + VBZ
+    plural = NNS + NNPS
+    singular = VBP + VBZ + NN + NNP
+
+    return CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,RP,SYM,\
+    TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,singular
     
