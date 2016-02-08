@@ -129,3 +129,8 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 *	Need to know how well was my feature selection
 
 *	Discuss with Tanvir Sir
+
+
+##Outputs
+
+*	First output : Logisitic Regression gives 44.9% f1 measure !LOSER !
