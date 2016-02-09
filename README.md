@@ -133,4 +133,8 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 
 ##Outputs
 
-*	First output : Logisitic Regression gives 44.9% f1 measure !LOSER !
+*	First output : Logisitic Regression gives 44.9% f1 measure ! LOSER ! After removing just some features (--removed ones), f1 measure comes down to 36.36% !
+
+*   Information Gain with best splits ready ! Either not working, or I did remove good features. Well, does work !
+
+*   Principal component analysis studying.

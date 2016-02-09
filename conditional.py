@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
+from sklearn import svm
 from sklearn.metrics import f1_score
 import scipy as sp
 
@@ -38,4 +39,18 @@ for i in y_pred:
 	y_new += [absolute(i)]
 
 print f1_score(y2, y_new)
+
+
+clf = svm.LinearSVC()
+clf.fit(x,y)
+
+y_pred = clf.predict(x2)
+# print y_pred
+
+y_new = []
+for i in y_pred:
+	# print i
+	y_new += [absolute(i)]
+
+print f1_score(y2, y_pred)
 

@@ -28,8 +28,6 @@ def parse(text):
             JJR = JJR + 1
         if word[1] == 'JJS':
             JJS = JJS + 1
-        if word[1] == 'LS':
-            LS = LS + 1
         if word[1] == 'MD':
             MD = MD + 1
         if word[1] == 'NN':
@@ -88,6 +86,6 @@ def parse(text):
     plural = NNS + NNPS
     singular = VBP + VBZ + NN + NNP
 
-    return CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,RP,SYM,\
+    return CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,RP,SYM,\
     TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,singular
     
