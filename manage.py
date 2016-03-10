@@ -16,8 +16,8 @@ def create():
 
 	start = time.time()
 
-	header = ['CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN','NNS','NNP','NNPS','PDT',\
-	'POS','PRP','PRPD','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT',\
+	header = ['CC','CD','DT','EX','IN','JJ','JJR','JJS','MD','NN','NNS','NNP','NNPS','PDT',\
+	'PRP','PRPD','RB','RBR','RBS','SYM','VB',\
 	'WP','WPD','WRB','past tense','present tense','Plural','Singular','SentenceLength','WordCount',\
 	'FunctionWordCount',\
 	'count_errors','Sentiment',\
@@ -30,12 +30,10 @@ def create():
 			if cont in f:
 				myfile = open(f,'r')
 				text = myfile.read()
-				CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,\
-					singular = parse(text)
-				data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,\
-								plural,singular,SentenceLength(text),\
+				CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,VB,WP\
+    			,WPD,WRB,past,present,plural,singular = parse(text)
+				data = [CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,VB,WP\
+    				,WPD,WRB,past,present,plural,singular,SentenceLength(text),\
 								WordCount(text),FunctionWordCount(text),count_errors(text),\
 								sentiment(text),\
 								Polarity(text),cont]
@@ -56,12 +54,10 @@ def create():
 			if cont in f:
 				myfile = open(f,'r')
 				text = myfile.read()
-				CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,\
-					singular = parse(text)
-				data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,\
-								plural,singular,SentenceLength(text),\
+				CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,VB,WP\
+    			,WPD,WRB,past,present,plural,singular = parse(text)
+				data = [CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,VB,WP\
+    				,WPD,WRB,past,present,plural,singular,SentenceLength(text),\
 								WordCount(text),FunctionWordCount(text),count_errors(text),\
 								sentiment(text),\
 								Polarity(text),cont]
@@ -77,12 +73,10 @@ def create():
 			if cont in f:
 				myfile = open(f,'r')
 				text = myfile.read()
-				CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-					RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,\
-					singular = parse(text)
-				data = [CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,\
-								RP,SYM,TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,\
-								plural,singular,SentenceLength(text),\
+				CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,VB,WP\
+    			,WPD,WRB,past,present,plural,singular = parse(text)
+				data = [CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,VB,WP\
+    				,WPD,WRB,past,present,plural,singular,SentenceLength(text),\
 								WordCount(text),FunctionWordCount(text),count_errors(text),\
 								sentiment(text),\
 								Polarity(text),cont]

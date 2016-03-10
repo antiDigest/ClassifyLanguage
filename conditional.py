@@ -5,8 +5,8 @@ from sklearn import svm
 from sklearn.metrics import f1_score
 import scipy as sp
 
-header = ['CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN','NNS','NNP','NNPS','PDT',\
-	'POS','PRP','PRPD','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT',\
+header = ['CC','CD','DT','EX','IN','JJ','JJR','JJS','MD','NN','NNS','NNP','NNPS','PDT',\
+	'PRP','PRPD','RB','RBR','RBS','SYM','VB',\
 	'WP','WPD','WRB','SentenceLength','WordCount',\
 	'FunctionWordCount',\
 	'count_errors','Sentiment',\

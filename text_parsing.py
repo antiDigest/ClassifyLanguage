@@ -85,7 +85,9 @@ def parse(text):
     present = VBG + VBP + VBZ
     plural = NNS + NNPS
     singular = VBP + VBZ + NN + NNP
+    nouns = NN+NNS+NNP+NNPS
+    verbs = VB+VBZ+VBP+VBG+VBN+VBD
 
-    return CC,CD,DT,EX,FW,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,POS,PRP,PRPD,RB,RBR,RBS,RP,SYM,\
-    TO,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP,WPD,WRB,past,present,plural,singular
+    return CC,CD,DT,EX,IN,JJ,JJR,JJS,MD,NN,NNS,NNP,NNPS,PDT,PRP,PRPD,RB,RBR,RBS,SYM,UH,VB,WP\
+    ,WPD,WRB,past,present,plural,singular,nouns,verbs
     
