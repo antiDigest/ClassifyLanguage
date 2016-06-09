@@ -122,18 +122,6 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 
 1.	Install nltk, textblob, sklearn, pandas
 
-
-#DONE:
-	
-*	The train and test data are in csv files !
-
-*	The train and test set run on Linear Regression, Multilayer Perceptron, Decision Trees, Additive Regression(ZeroR), Decision Table.
-
-*	Need to know how well was my feature selection
-
-*	Discuss with Tanvir Sir
-
-
 ##Outputs
 
 *	First output : Logisitic Regression gives 44.9% f1 measure ! LOSER ! After removing just some features (--removed ones), f1 measure comes down to 36.36% !
