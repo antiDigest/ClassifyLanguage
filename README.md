@@ -108,11 +108,14 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 
 ###TODO:
 
-1.	Select more and different features. Use ngrams, tfidf etc
+1.    Select more and different features. Use ngrams, tfidf etc
 
-2.	Apply dimensionality reduction
+2.    Apply dimensionality reduction
 
-3.	Check again on classifiers
+3.    Check again on classifiers
+
+4.    We first convert each of the essays in our training data to a list of parts of speech using Stanford’s parts of speech tagger [5]. For example, the sentence ”This is a paper” would be converted to (determiner, third person verb, determiner, singular noun). We then take consecutive 2-sequences of parts of speech, and count the frequency of each 2-sequence in all of the training essays for a language of origin. Thus, each language has its own model of parts of speech frequencies. Then, for each essay in our test data, we find the likelihood of the sequence of parts of speech from that essay appearing in each language based on our models. The prediction is the language that results in the highest likelihood.
+
 
 
 #Requirements:
