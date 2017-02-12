@@ -1,6 +1,10 @@
 # ClassifyLanguage
 Language Classifier
 
+#What ?
+
+Every language has a different grammar pattern, and sometimes people mix the grammars while writing text in English. We would like to use this idea and extend our knowledge in machine learning and natural language processing to figure out if this is doable.
+
 ## Data Collected on ICNALE-Written
 |Country Code 	|Country 	|Writers/Essays 	|  # of Tokens	|
 |:--------------:|:---------:|:-----------------:|:-------------:|
