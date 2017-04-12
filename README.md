@@ -1,7 +1,7 @@
 # ClassifyLanguage
 Language Classifier
 
-#What ?
+# What ?
 
 Every language has a different grammar pattern, and sometimes people mix the grammars while writing text in English. We would like to use this idea and extend our knowledge in machine learning and natural language processing to figure out if this is doable.
 
@@ -28,7 +28,7 @@ Every language has a different grammar pattern, and sometimes people mix the gra
 ***Expanding Circle
 
 
-##What each file name means:
+## What each file name means:
 
 |S/W 	|Country| 	Topic/ Trial| 	Serial| 	CEFR|
 |:--------------:|:---------:|:-----------------:|:-------------:|:-------------:|
@@ -43,16 +43,16 @@ Every language has a different grammar pattern, and sometimes people mix the gra
 |||||XX_3 Others|
 
 
-##What terms in XLSX file mean:
+## What terms in XLSX file mean:
 
-###About essays or speeches
+### About essays or speeches
 |Term|Meaning|
 |:----:|:-------:|
 Code| File code
 PTJ (wds)| The number of words in one essay or speech
 SMK (wds)|The number of words in one essay or speech
 
-###About participants' background
+### About participants' background
 |Term|Meaning|
 |:----:|:-------:|
 Country| Participant's country or area
@@ -62,7 +62,7 @@ Grade| Participant's school grade (1, 2, 3, 4|)
 Major (Occupation)| In case of students, their major at colleges; in case of employed people, their job.
 Academic Genres| Only for students: Humanities, Social Sciences, Science and Technology, and Life Science
 
-###About participants' proficiency
+### About participants' proficiency
 |Term|Meaning|
 |:----:|:-------:|
 Proficiency Test| Test name such as TOEIC or TOEFL
@@ -70,7 +70,7 @@ Score| Score in the test above
 VST| Score in the vocabulary size test (full mark is 50) This test measures participants' L2 lexical knowledge with a ceiling of 5,000 words.
 CEFR| CEFR levels: A2, B1_1, B1_2, B2+. Estimated from participants' scores in the proficiency test or in the vocabulary size test
 
-###About participants' motivation
+### About participants' motivation
 |Term|Meaning|
 |:----:|:-------:|
 INTM| Integrative Motivation Score
@@ -78,7 +78,7 @@ INSM| Instrumental Motivation Score
 INTM+INSM| Strength of Motivation
 INTM-INSM| Integrative Motivation Orientation Score
 
-###About participants' L2 learning experiences
+### About participants' L2 learning experiences
 |Term|Meaning|
 |:----:|:-------:|
 Primary| How much a participant studies English in their primary school days (1 to 6 points)
@@ -96,21 +96,21 @@ Presentation|How much a participant has been taught presentation (1 to 6 points)
 Essay Writing|How much a participant has been taught essay writing (1 to 6 points)
 
 
-###Done :
+### Done :
 
-1.	Average Sentence Length
+1.	~~Average Sentence Length~~
 
-2.	Grammar Check
+2.	~~Grammar Check~~
 
-3.	Spelling Check
+3.	~~Spelling Check~~
 
-4.	Word Count
+4.	~~Word Count~~
 
-5.	Function Words Count
+5.	~~Function Words Count~~
 
-6.	POS Bigrams and Trigrams
+6.	~~POS Bigrams and Trigrams~~
 
-###TODO:
+### TODO:
 
 1.    Select more and different features. Use ngrams, tfidf etc
 
@@ -122,13 +122,13 @@ Essay Writing|How much a participant has been taught essay writing (1 to 6 point
 
 5.   We also need to find the sentence structures (subject-verb-object kind of structures !). Search how to do that !
 
-#Requirements:
+# Requirements:
 
 1.	Install nltk, textblob, sklearn, pandas
 
-##Outputs
+## Outputs
 
-*	First output : Logisitic Regression gives 44.9% f1 measure ! LOSER ! After removing just some features (--removed ones), f1 measure comes down to 36.36% !
+*   First output : Logisitic Regression gives 44.9% f1 measure ! LOSER ! After removing just some features (--removed ones), f1 measure comes down to 36.36% !
 
 *   Removed commented out features : 0.48087431694
 
